@@ -44,7 +44,7 @@ For the demo, we will manage a group of moviegoers that watch certain films and 
 
 The Odruba GUI is divided into two (resizable) panes. In the left pane, the visual graph representation is displayed (let's call this the 'graph window'). Nodes can be dragged around and screen. When you hover over a node (or edge), a small pop-up will show the URI and some information. Also you can zoom the graph window with the scroll wheel and pan it by dragging it around with the mouse. Alternatively, you can use the +/- and arrow keys.
 
-Nodes and edges can be clicked to select them. Clicking while holding the shift key will add the clicked element to the active selection or remove it from the selection if it was selected before. For each selected node, its direct neighbors will also be highlighted while the other nodes are greyed out.
+Nodes and edges can be clicked to select them. Clicking while holding the `Ctrl` key will add the clicked element to the active selection or remove it from the selection if it was selected before. For each selected node, its direct neighbors will also be highlighted while the other nodes are greyed out.
 
 Make sure the graph window is focused (there is a blue border around it in that case). To quickly find a certain node, you can press `/` and bring up a quick search bar on the bottom of the graph window. Enter you search bar and press `Enter`. The nodes matching the search term will be highlighted, while those not matching will be greyed out. In case no node matches, all nodes remain their normal visibility. The `Escape` key closed the quick search. Press `Escape` again to clear the selection.
 
@@ -52,7 +52,7 @@ Make sure the graph window is focused (there is a blue border around it in that 
 
 > _Hand-on:_ Right now our graph is relatively boring. Let's explore it a bit. Highlight the node "Bonnie and Cly..." and press the `Expand node` button below the graph window. This will fetch some more data from the background knowledge, in this case the LinkedMDB.
 
-Which triples will be included and displayed in the graph? This depends on the configuration of Odruba (see below) and is use-case specific. You might not be interested in the directors or actors of a movie, so you could choose not to include them when using the `Expand node` button. This is the reason why trying to expand an actor (the yellow star icon) will not produce any results in this demo.
+Which triples will be included and displayed in the graph? This depends on the configuration of Odruba (see below) and is use-case specific. You might not be interested in the directors or actors of a movie, so you could choose not to include them when using the `Expand node` button (alternatively, press `p` on your keyboard). This is the reason why trying to expand an actor (the yellow star icon) will not produce any results in this demo.
 
 As you expand the node labeled "Arthur Penn" you will notice that the new nodes lack any styling and also there is no movie title but only a CURIE. The reason for this is that there are no triples describing e.g. `film:2091` in the sub-graph exported from the LinkedMDB.
 
