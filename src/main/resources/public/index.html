@@ -1,0 +1,148 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Odruba - Ontology-driven Rule-based Visualisation</title>
+
+  <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <script type="text/javascript" src="node_modules/jquery/dist/jquery.min.js"></script>
+  <script type="text/javascript" src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+
+  <script type="text/javascript" src="node_modules/vis/dist/vis.min.js"></script>
+  <script type="text/javascript" src="javascript/odruba.js"></script>
+
+  <link rel="stylesheet" href="node_modules/vis/dist/vis.min.css" type="text/css"/>
+  <link rel="stylesheet" href="css/odruba.css" type="text/css"/>
+  <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css" type="text/css"/>
+</head>
+
+<body onload="draw()">
+
+<div id="header">
+  <!--
+      the fa icon here ensures fontawesome is loaded. when using
+      fontawesome icon in visjs, icons are sometimes not displayed
+      properly unless the page is reloaded. this icon fixes
+      this.
+  -->
+  <i class="fa fa-bars" aria-hidden="true" style="color: gold; margin-left: 10px; margin-right: 10px"></i>
+  Odruba
+</div>
+
+<div id="wrapper">
+  <div class="fadeMe"></div>
+  <div id="wrapper-left">
+    <div id="mynetwork" tabindex="0"></div>
+    <div id="quicksearchbar"><input id="quicksearch" type="text"/></div>
+    <div id="buttonbar-left">
+      <button class="btn btn-danger" id="reload" title="Reload/reset data"><i class="fa fa-refresh" aria-hidden="true"></i></button>
+      <button class="btn btn-primary" id="stopAnimation" title="Stop animation"><i class="fa fa-pause" aria-hidden="true"></i></button>
+      <button disabled class="btn btn-primary" id="expandSelected"><i class="fa fa-expand" aria-hidden="true"></i> Expand
+        node
+      </button>
+      <button disabled class="btn btn-primary" id="explainStatement"
+              title="Explain the highlighted edge (hotkey: ?)"
+              data-toggle="modal" data-target="#explain_modal">
+        <i class="fa fa-question" aria-hidden="true"></i> Explain
+      </button>
+      <button type="button" class="btn btn-primary" id="enter_resource_button"
+              title="Enter a resource manually"
+              data-toggle="modal" data-target="#enter_resource_modal">
+        <i class="fa fa-terminal" aria-hidden="true"></i> Resource
+      </button>
+    </div>
+    <div id="drag"></div>
+  </div>
+  <div id="wrapper-right">
+
+    <ul class="nav nav-tabs">
+      <li><a data-toggle="tab" href="#graphconfig">Configuration</a></li>
+      <li class="active"><a data-toggle="tab" href="#home">Graph Data</a></li>
+      <li><a data-toggle="tab" href="#ontology">Ontology Data</a></li>
+
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Rulesets
+          <span class="caret"></span></a>
+        <ul id="rulesets" class="dropdown-menu">
+        </ul>
+      </li>
+
+      <li><a data-toggle="tab" href="#rendered"><i class="fa fa-lock" aria-hidden="true"></i> Rendered Graph</a></li>
+    </ul>
+
+    <div id="tabcontentdiv" class="tab-content">
+      <div id="rendered" class="tab-pane fade">
+        <div class="tabinput form-group">
+          <textarea readonly class="form-control" id="textfeld" title="Enter TURTLE graph description">Enter TURTLE graph description</textarea>
+        </div>
+      </div>
+      <div id="home" class="tab-pane fade in active">
+        <div id="input" class="tabinput form-group">
+          <textarea class="form-control" id="inputData" title="Enter TURTLE graph description">Enter TURTLE graph description</textarea>
+        </div>
+      </div>
+      <div id="ontology" class="tab-pane fade">
+        <div class="tabinput form-group">
+          <textarea class="form-control" id="ontologyData" title="Enter TURTLE graph description">Enter TURTLE graph description</textarea>
+        </div>
+      </div>
+      <div id="graphconfig" class="tab-pane fade">
+        <div class="tabinput form-group">
+          <textarea class="form-control" id="configData" title="Enter TURTLE graph description">Enter TURTLE graph description</textarea>
+        </div>
+      </div>
+    </div>
+
+    <div id="buttonbar-right">
+      <button class="btn btn-primary" id="submit">Submit</button>
+      <button class="btn btn-primary" id="add">Add</button>
+    </div>
+
+  </div>
+
+</div>
+
+
+<!-- M O D A L S -->
+
+<div tabindex="0" id="explain_modal" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Explanation</h4>
+      </div>
+      <div class="modal-body">
+        <pre id="explanation"></pre>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-success" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div tabindex="0" id="enter_resource_modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Resource by URI</h4>
+      </div>
+      <div class="modal-body">
+        <div>
+          <label for="enter_resource_input">Enter the URI of a resource you want to show or add:</label>
+          <input type="text" class="form-control" id="enter_resource_input" title="">
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button id="enter_resource_submit" class="btn btn-success">Submit</button>
+        <button id="enter_resource_add" class="btn btn-success">Add</button>
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

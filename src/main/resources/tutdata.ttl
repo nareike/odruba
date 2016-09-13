@@ -1,0 +1,22 @@
+@prefix ex: <http://example.org/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+@prefix genre: <http://data.linkedmdb.org/resource/film_genre/> .
+@prefix movie: <http://data.linkedmdb.org/resource/movie/> .
+@prefix film: <http://data.linkedmdb.org/resource/film/> .
+
+ex:Alice
+    ex:watches film:136 ;
+    rdfs:label "Alice" ;
+    a ex:movieGoer ;
+    a foaf:Person .
+
+ex:Betty
+    ex:watches film:77 ;
+    rdfs:label "Betty" ;
+    a ex:movieGoer ;
+    a foaf:Person .
+

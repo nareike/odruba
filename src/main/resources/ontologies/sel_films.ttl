@@ -1,0 +1,604 @@
+@prefix ns1: <http://data.linkedmdb.org/resource/movie/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.linkedmdb.org/resource/film/1087> a ns1:film ;
+    rdfs:label "The Wizard of Oz" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/29900>,
+        <http://data.linkedmdb.org/resource/actor/30335>,
+        <http://data.linkedmdb.org/resource/actor/30795>,
+        <http://data.linkedmdb.org/resource/actor/32143>,
+        <http://data.linkedmdb.org/resource/actor/32530>,
+        <http://data.linkedmdb.org/resource/actor/32628>,
+        <http://data.linkedmdb.org/resource/actor/33001>,
+        <http://data.linkedmdb.org/resource/actor/36405>,
+        <http://data.linkedmdb.org/resource/actor/37252>,
+        <http://data.linkedmdb.org/resource/actor/37871>,
+        <http://data.linkedmdb.org/resource/actor/44803>,
+        <http://data.linkedmdb.org/resource/actor/46686> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8416>,
+        <http://data.linkedmdb.org/resource/director/8602>,
+        <http://data.linkedmdb.org/resource/director/8713>,
+        <http://data.linkedmdb.org/resource/director/8733>,
+        <http://data.linkedmdb.org/resource/director/9761> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/9> .
+
+<http://data.linkedmdb.org/resource/film/114> a ns1:film ;
+    rdfs:label "Stagecoach" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/258>,
+        <http://data.linkedmdb.org/resource/actor/276>,
+        <http://data.linkedmdb.org/resource/actor/29510>,
+        <http://data.linkedmdb.org/resource/actor/30550>,
+        <http://data.linkedmdb.org/resource/actor/31901>,
+        <http://data.linkedmdb.org/resource/actor/31995>,
+        <http://data.linkedmdb.org/resource/actor/33311>,
+        <http://data.linkedmdb.org/resource/actor/33927>,
+        <http://data.linkedmdb.org/resource/actor/37311>,
+        <http://data.linkedmdb.org/resource/actor/38590>,
+        <http://data.linkedmdb.org/resource/actor/48299>,
+        <http://data.linkedmdb.org/resource/actor/52368> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8946> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/14> .
+
+<http://data.linkedmdb.org/resource/film/122> a ns1:film ;
+    rdfs:label "Schindler's List" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/29959>,
+        <http://data.linkedmdb.org/resource/actor/30666>,
+        <http://data.linkedmdb.org/resource/actor/30727>,
+        <http://data.linkedmdb.org/resource/actor/33617>,
+        <http://data.linkedmdb.org/resource/actor/40467> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8477> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/30>,
+        <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/133> a ns1:film ;
+    rdfs:label "Chinatown" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/29704>,
+        <http://data.linkedmdb.org/resource/actor/29769>,
+        <http://data.linkedmdb.org/resource/actor/30004>,
+        <http://data.linkedmdb.org/resource/actor/31214>,
+        <http://data.linkedmdb.org/resource/actor/35824>,
+        <http://data.linkedmdb.org/resource/actor/36303> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8470> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/28>,
+        <http://data.linkedmdb.org/resource/film_genre/53> .
+
+<http://data.linkedmdb.org/resource/film/136> a ns1:film ;
+    rdfs:label "Bonnie and Clyde" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/29471>,
+        <http://data.linkedmdb.org/resource/actor/29939>,
+        <http://data.linkedmdb.org/resource/actor/30004>,
+        <http://data.linkedmdb.org/resource/actor/30879>,
+        <http://data.linkedmdb.org/resource/actor/33897> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/10045> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/153> a ns1:film ;
+    rdfs:label "Double Indemnity" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/29751>,
+        <http://data.linkedmdb.org/resource/actor/30105>,
+        <http://data.linkedmdb.org/resource/actor/30752>,
+        <http://data.linkedmdb.org/resource/actor/40959> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8552> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/1641> a ns1:film ;
+    rdfs:label "The Green Mile" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/25>,
+        <http://data.linkedmdb.org/resource/actor/29755>,
+        <http://data.linkedmdb.org/resource/actor/30590>,
+        <http://data.linkedmdb.org/resource/actor/30594>,
+        <http://data.linkedmdb.org/resource/actor/30989>,
+        <http://data.linkedmdb.org/resource/actor/32097>,
+        <http://data.linkedmdb.org/resource/actor/32440>,
+        <http://data.linkedmdb.org/resource/actor/32711>,
+        <http://data.linkedmdb.org/resource/actor/35812>,
+        <http://data.linkedmdb.org/resource/actor/36190>,
+        <http://data.linkedmdb.org/resource/actor/41927>,
+        <http://data.linkedmdb.org/resource/actor/42005>,
+        <http://data.linkedmdb.org/resource/actor/43527>,
+        <http://data.linkedmdb.org/resource/actor/563> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/9712> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/17303> a ns1:film ;
+    rdfs:label "12 Angry Men" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/227>,
+        <http://data.linkedmdb.org/resource/actor/31743>,
+        <http://data.linkedmdb.org/resource/actor/31853>,
+        <http://data.linkedmdb.org/resource/actor/32780>,
+        <http://data.linkedmdb.org/resource/actor/33822>,
+        <http://data.linkedmdb.org/resource/actor/37034> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/9089> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/1838> a ns1:film ;
+    rdfs:label "Amadeus" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/30558>,
+        <http://data.linkedmdb.org/resource/actor/30668>,
+        <http://data.linkedmdb.org/resource/actor/32920>,
+        <http://data.linkedmdb.org/resource/actor/44759>,
+        <http://data.linkedmdb.org/resource/actor/47> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8567> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/30>,
+        <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/195> a ns1:film ;
+    rdfs:label "Nashville" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/30303>,
+        <http://data.linkedmdb.org/resource/actor/32779>,
+        <http://data.linkedmdb.org/resource/actor/33797>,
+        <http://data.linkedmdb.org/resource/actor/34332>,
+        <http://data.linkedmdb.org/resource/actor/35070>,
+        <http://data.linkedmdb.org/resource/actor/35543>,
+        <http://data.linkedmdb.org/resource/actor/35623>,
+        <http://data.linkedmdb.org/resource/actor/39676>,
+        <http://data.linkedmdb.org/resource/actor/41419>,
+        <http://data.linkedmdb.org/resource/actor/44474>,
+        <http://data.linkedmdb.org/resource/actor/529>,
+        <http://data.linkedmdb.org/resource/actor/594> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8537> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/4>,
+        <http://data.linkedmdb.org/resource/film_genre/9> .
+
+<http://data.linkedmdb.org/resource/film/2243> a ns1:film ;
+    rdfs:label "Ben-Hur" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/244>,
+        <http://data.linkedmdb.org/resource/actor/32892>,
+        <http://data.linkedmdb.org/resource/actor/37467>,
+        <http://data.linkedmdb.org/resource/actor/41269>,
+        <http://data.linkedmdb.org/resource/actor/45092> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/10142>,
+        <http://data.linkedmdb.org/resource/director/12559> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/23>,
+        <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/234> a ns1:film ;
+    rdfs:label "Vertigo" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/10450>,
+        <http://data.linkedmdb.org/resource/actor/11763>,
+        <http://data.linkedmdb.org/resource/actor/29365>,
+        <http://data.linkedmdb.org/resource/actor/29520>,
+        <http://data.linkedmdb.org/resource/actor/31332>,
+        <http://data.linkedmdb.org/resource/actor/35060>,
+        <http://data.linkedmdb.org/resource/actor/36641>,
+        <http://data.linkedmdb.org/resource/actor/399>,
+        <http://data.linkedmdb.org/resource/actor/41058>,
+        <http://data.linkedmdb.org/resource/actor/771> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8372> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/27>,
+        <http://data.linkedmdb.org/resource/film_genre/28>,
+        <http://data.linkedmdb.org/resource/film_genre/49> .
+
+<http://data.linkedmdb.org/resource/film/24> a ns1:film ;
+    rdfs:label "Psycho" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/10451>,
+        <http://data.linkedmdb.org/resource/actor/29365>,
+        <http://data.linkedmdb.org/resource/actor/30646>,
+        <http://data.linkedmdb.org/resource/actor/31074>,
+        <http://data.linkedmdb.org/resource/actor/31161>,
+        <http://data.linkedmdb.org/resource/actor/33644>,
+        <http://data.linkedmdb.org/resource/actor/34333>,
+        <http://data.linkedmdb.org/resource/actor/36130>,
+        <http://data.linkedmdb.org/resource/actor/39842>,
+        <http://data.linkedmdb.org/resource/actor/39864>,
+        <http://data.linkedmdb.org/resource/actor/43771>,
+        <http://data.linkedmdb.org/resource/actor/448>,
+        <http://data.linkedmdb.org/resource/actor/7694>,
+        <http://data.linkedmdb.org/resource/actor/9959> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8372> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/18> .
+
+<http://data.linkedmdb.org/resource/film/2576> a ns1:film ;
+    rdfs:label "An American in Paris" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/1927>,
+        <http://data.linkedmdb.org/resource/actor/29468>,
+        <http://data.linkedmdb.org/resource/actor/29558>,
+        <http://data.linkedmdb.org/resource/actor/31391>,
+        <http://data.linkedmdb.org/resource/actor/41022> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/9111> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/9> .
+
+<http://data.linkedmdb.org/resource/film/2685> a ns1:film ;
+    rdfs:label "A Clockwork Orange" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/30947>,
+        <http://data.linkedmdb.org/resource/actor/34792>,
+        <http://data.linkedmdb.org/resource/actor/37966>,
+        <http://data.linkedmdb.org/resource/actor/42563>,
+        <http://data.linkedmdb.org/resource/actor/49815>,
+        <http://data.linkedmdb.org/resource/actor/60828>,
+        <http://data.linkedmdb.org/resource/actor/932> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8476> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/17> .
+
+<http://data.linkedmdb.org/resource/film/276> a ns1:film ;
+    rdfs:label "Giant" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/29738>,
+        <http://data.linkedmdb.org/resource/actor/29903>,
+        <http://data.linkedmdb.org/resource/actor/30563>,
+        <http://data.linkedmdb.org/resource/actor/30911> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/13268>,
+        <http://data.linkedmdb.org/resource/director/8714> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/291> a ns1:film ;
+    rdfs:label "Patton" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/30085>,
+        <http://data.linkedmdb.org/resource/actor/31792>,
+        <http://data.linkedmdb.org/resource/actor/37477>,
+        <http://data.linkedmdb.org/resource/actor/38034>,
+        <http://data.linkedmdb.org/resource/actor/40885>,
+        <http://data.linkedmdb.org/resource/actor/40908>,
+        <http://data.linkedmdb.org/resource/actor/432>,
+        <http://data.linkedmdb.org/resource/actor/51744>,
+        <http://data.linkedmdb.org/resource/actor/52343>,
+        <http://data.linkedmdb.org/resource/actor/52945>,
+        <http://data.linkedmdb.org/resource/actor/53284>,
+        <http://data.linkedmdb.org/resource/actor/54345>,
+        <http://data.linkedmdb.org/resource/actor/65609>,
+        <http://data.linkedmdb.org/resource/actor/65627>,
+        <http://data.linkedmdb.org/resource/actor/9676> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8412> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/30> .
+
+<http://data.linkedmdb.org/resource/film/293> a ns1:film ;
+    rdfs:label "The French Connection" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/29471>,
+        <http://data.linkedmdb.org/resource/actor/30615>,
+        <http://data.linkedmdb.org/resource/actor/37218>,
+        <http://data.linkedmdb.org/resource/actor/9525> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/9089> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/47> .
+
+<http://data.linkedmdb.org/resource/film/3022> a ns1:film ;
+    rdfs:label "Singin' in the Rain" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/111>,
+        <http://data.linkedmdb.org/resource/actor/29468>,
+        <http://data.linkedmdb.org/resource/actor/33894>,
+        <http://data.linkedmdb.org/resource/actor/35533>,
+        <http://data.linkedmdb.org/resource/actor/35960>,
+        <http://data.linkedmdb.org/resource/actor/49376> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8415>,
+        <http://data.linkedmdb.org/resource/director/9340> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/9> .
+
+<http://data.linkedmdb.org/resource/film/319> a ns1:film ;
+    rdfs:label "Platoon" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/110>,
+        <http://data.linkedmdb.org/resource/actor/30028>,
+        <http://data.linkedmdb.org/resource/actor/31048>,
+        <http://data.linkedmdb.org/resource/actor/31457>,
+        <http://data.linkedmdb.org/resource/actor/31997>,
+        <http://data.linkedmdb.org/resource/actor/33226>,
+        <http://data.linkedmdb.org/resource/actor/34463>,
+        <http://data.linkedmdb.org/resource/actor/35248>,
+        <http://data.linkedmdb.org/resource/actor/37215>,
+        <http://data.linkedmdb.org/resource/actor/37576>,
+        <http://data.linkedmdb.org/resource/actor/45875>,
+        <http://data.linkedmdb.org/resource/actor/751> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8464> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/12>,
+        <http://data.linkedmdb.org/resource/film_genre/23>,
+        <http://data.linkedmdb.org/resource/film_genre/4>,
+        <http://data.linkedmdb.org/resource/film_genre/47> .
+
+<http://data.linkedmdb.org/resource/film/339> a ns1:film ;
+    rdfs:label "Fargo" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/30357>,
+        <http://data.linkedmdb.org/resource/actor/30821>,
+        <http://data.linkedmdb.org/resource/actor/31409>,
+        <http://data.linkedmdb.org/resource/actor/32072>,
+        <http://data.linkedmdb.org/resource/actor/34327>,
+        <http://data.linkedmdb.org/resource/actor/41794> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/3311>,
+        <http://data.linkedmdb.org/resource/director/3312> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/17> .
+
+<http://data.linkedmdb.org/resource/film/4182> a ns1:film ;
+    rdfs:label "One Flew Over the Cuckoo's Nest" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/29704>,
+        <http://data.linkedmdb.org/resource/actor/30013>,
+        <http://data.linkedmdb.org/resource/actor/30241>,
+        <http://data.linkedmdb.org/resource/actor/30512>,
+        <http://data.linkedmdb.org/resource/actor/30688>,
+        <http://data.linkedmdb.org/resource/actor/31131>,
+        <http://data.linkedmdb.org/resource/actor/31186>,
+        <http://data.linkedmdb.org/resource/actor/31315>,
+        <http://data.linkedmdb.org/resource/actor/32368>,
+        <http://data.linkedmdb.org/resource/actor/33205>,
+        <http://data.linkedmdb.org/resource/actor/38580>,
+        <http://data.linkedmdb.org/resource/actor/60955>,
+        <http://data.linkedmdb.org/resource/actor/8238> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8567> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/23>,
+        <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/43> a ns1:film ;
+    rdfs:label "2001: A Space Odyssey" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/10480>,
+        <http://data.linkedmdb.org/resource/actor/10481>,
+        <http://data.linkedmdb.org/resource/actor/1489>,
+        <http://data.linkedmdb.org/resource/actor/29815>,
+        <http://data.linkedmdb.org/resource/actor/31645>,
+        <http://data.linkedmdb.org/resource/actor/31732>,
+        <http://data.linkedmdb.org/resource/actor/32646>,
+        <http://data.linkedmdb.org/resource/actor/34932>,
+        <http://data.linkedmdb.org/resource/actor/36625>,
+        <http://data.linkedmdb.org/resource/actor/37179>,
+        <http://data.linkedmdb.org/resource/actor/43709>,
+        <http://data.linkedmdb.org/resource/actor/44345>,
+        <http://data.linkedmdb.org/resource/actor/62187> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8476> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/31> .
+
+<http://data.linkedmdb.org/resource/film/4335> a ns1:film ;
+    rdfs:label "Gone with the Wind" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/18>,
+        <http://data.linkedmdb.org/resource/actor/258>,
+        <http://data.linkedmdb.org/resource/actor/29678>,
+        <http://data.linkedmdb.org/resource/actor/29731>,
+        <http://data.linkedmdb.org/resource/actor/30126>,
+        <http://data.linkedmdb.org/resource/actor/30163>,
+        <http://data.linkedmdb.org/resource/actor/32205>,
+        <http://data.linkedmdb.org/resource/actor/32562>,
+        <http://data.linkedmdb.org/resource/actor/33988>,
+        <http://data.linkedmdb.org/resource/actor/37669>,
+        <http://data.linkedmdb.org/resource/actor/696> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8416>,
+        <http://data.linkedmdb.org/resource/director/8733>,
+        <http://data.linkedmdb.org/resource/director/9728> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/465> a ns1:film ;
+    rdfs:label "The Lord of the Rings: The Return of the King" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/29494>,
+        <http://data.linkedmdb.org/resource/actor/29718>,
+        <http://data.linkedmdb.org/resource/actor/29862>,
+        <http://data.linkedmdb.org/resource/actor/30260>,
+        <http://data.linkedmdb.org/resource/actor/30540>,
+        <http://data.linkedmdb.org/resource/actor/30546>,
+        <http://data.linkedmdb.org/resource/actor/30609>,
+        <http://data.linkedmdb.org/resource/actor/30610>,
+        <http://data.linkedmdb.org/resource/actor/30711>,
+        <http://data.linkedmdb.org/resource/actor/30723>,
+        <http://data.linkedmdb.org/resource/actor/30786>,
+        <http://data.linkedmdb.org/resource/actor/31272>,
+        <http://data.linkedmdb.org/resource/actor/31526>,
+        <http://data.linkedmdb.org/resource/actor/32094>,
+        <http://data.linkedmdb.org/resource/actor/32108>,
+        <http://data.linkedmdb.org/resource/actor/32318>,
+        <http://data.linkedmdb.org/resource/actor/32368>,
+        <http://data.linkedmdb.org/resource/actor/32409>,
+        <http://data.linkedmdb.org/resource/actor/32495>,
+        <http://data.linkedmdb.org/resource/actor/32553>,
+        <http://data.linkedmdb.org/resource/actor/32596>,
+        <http://data.linkedmdb.org/resource/actor/35971>,
+        <http://data.linkedmdb.org/resource/actor/37398>,
+        <http://data.linkedmdb.org/resource/actor/49470> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8618> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/31> .
+
+<http://data.linkedmdb.org/resource/film/52> a ns1:film ;
+    rdfs:label "Lawrence of Arabia" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/10>,
+        <http://data.linkedmdb.org/resource/actor/29764>,
+        <http://data.linkedmdb.org/resource/actor/29925>,
+        <http://data.linkedmdb.org/resource/actor/29951>,
+        <http://data.linkedmdb.org/resource/actor/30270>,
+        <http://data.linkedmdb.org/resource/actor/30909>,
+        <http://data.linkedmdb.org/resource/actor/33455>,
+        <http://data.linkedmdb.org/resource/actor/34727>,
+        <http://data.linkedmdb.org/resource/actor/37404>,
+        <http://data.linkedmdb.org/resource/actor/9502> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8612> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/5401> a ns1:film ;
+    rdfs:label "Gladiator" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/1279>,
+        <http://data.linkedmdb.org/resource/actor/29629>,
+        <http://data.linkedmdb.org/resource/actor/30285>,
+        <http://data.linkedmdb.org/resource/actor/30657>,
+        <http://data.linkedmdb.org/resource/actor/30800>,
+        <http://data.linkedmdb.org/resource/actor/31725>,
+        <http://data.linkedmdb.org/resource/actor/32036>,
+        <http://data.linkedmdb.org/resource/actor/32439>,
+        <http://data.linkedmdb.org/resource/actor/36188>,
+        <http://data.linkedmdb.org/resource/actor/36260>,
+        <http://data.linkedmdb.org/resource/actor/41457>,
+        <http://data.linkedmdb.org/resource/actor/44322>,
+        <http://data.linkedmdb.org/resource/actor/47756>,
+        <http://data.linkedmdb.org/resource/actor/55804>,
+        <http://data.linkedmdb.org/resource/actor/9063> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8472> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/35>,
+        <http://data.linkedmdb.org/resource/film_genre/4>,
+        <http://data.linkedmdb.org/resource/film_genre/7> .
+
+<http://data.linkedmdb.org/resource/film/6299> a ns1:film ;
+    rdfs:label "The Grapes of Wrath" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/29804>,
+        <http://data.linkedmdb.org/resource/actor/31995>,
+        <http://data.linkedmdb.org/resource/actor/33885>,
+        <http://data.linkedmdb.org/resource/actor/40970>,
+        <http://data.linkedmdb.org/resource/actor/47791>,
+        <http://data.linkedmdb.org/resource/actor/48449> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8946> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/6577> a ns1:film ;
+    rdfs:label "To Kill a Mockingbird" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/30054>,
+        <http://data.linkedmdb.org/resource/actor/30559>,
+        <http://data.linkedmdb.org/resource/actor/38544>,
+        <http://data.linkedmdb.org/resource/actor/39529>,
+        <http://data.linkedmdb.org/resource/actor/39788>,
+        <http://data.linkedmdb.org/resource/actor/527> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/10333> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/6580> a ns1:film ;
+    rdfs:label "West Side Story" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/30053>,
+        <http://data.linkedmdb.org/resource/actor/32147>,
+        <http://data.linkedmdb.org/resource/actor/33871>,
+        <http://data.linkedmdb.org/resource/actor/33943>,
+        <http://data.linkedmdb.org/resource/actor/37471> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8601>,
+        <http://data.linkedmdb.org/resource/director/9400> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/9> .
+
+<http://data.linkedmdb.org/resource/film/6646> a ns1:film ;
+    rdfs:label "Rear Window" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/30033>,
+        <http://data.linkedmdb.org/resource/actor/31777>,
+        <http://data.linkedmdb.org/resource/actor/33053> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/3494> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/28>,
+        <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/6793> a ns1:film ;
+    rdfs:label "My Fair Lady" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/11300>,
+        <http://data.linkedmdb.org/resource/actor/29849>,
+        <http://data.linkedmdb.org/resource/actor/30186>,
+        <http://data.linkedmdb.org/resource/actor/30519>,
+        <http://data.linkedmdb.org/resource/actor/30648>,
+        <http://data.linkedmdb.org/resource/actor/30709>,
+        <http://data.linkedmdb.org/resource/actor/32558>,
+        <http://data.linkedmdb.org/resource/actor/36512>,
+        <http://data.linkedmdb.org/resource/actor/44188> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8416> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/9> .
+
+<http://data.linkedmdb.org/resource/film/6794> a ns1:film ;
+    rdfs:label "The Sound of Music" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/30058>,
+        <http://data.linkedmdb.org/resource/actor/30891>,
+        <http://data.linkedmdb.org/resource/actor/31803>,
+        <http://data.linkedmdb.org/resource/actor/33401>,
+        <http://data.linkedmdb.org/resource/actor/33412>,
+        <http://data.linkedmdb.org/resource/actor/34203>,
+        <http://data.linkedmdb.org/resource/actor/35610>,
+        <http://data.linkedmdb.org/resource/actor/36198>,
+        <http://data.linkedmdb.org/resource/actor/41992>,
+        <http://data.linkedmdb.org/resource/actor/42697>,
+        <http://data.linkedmdb.org/resource/actor/44091>,
+        <http://data.linkedmdb.org/resource/actor/44138>,
+        <http://data.linkedmdb.org/resource/actor/48227>,
+        <http://data.linkedmdb.org/resource/actor/48228>,
+        <http://data.linkedmdb.org/resource/actor/601>,
+        <http://data.linkedmdb.org/resource/actor/7884>,
+        <http://data.linkedmdb.org/resource/actor/9624> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8601> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/15>,
+        <http://data.linkedmdb.org/resource/film_genre/30>,
+        <http://data.linkedmdb.org/resource/film_genre/9> .
+
+<http://data.linkedmdb.org/resource/film/72> a ns1:film ;
+    rdfs:label "Titanic" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/10361>,
+        <http://data.linkedmdb.org/resource/actor/10362>,
+        <http://data.linkedmdb.org/resource/actor/29851>,
+        <http://data.linkedmdb.org/resource/actor/29852>,
+        <http://data.linkedmdb.org/resource/actor/30610>,
+        <http://data.linkedmdb.org/resource/actor/31581>,
+        <http://data.linkedmdb.org/resource/actor/31700>,
+        <http://data.linkedmdb.org/resource/actor/31790>,
+        <http://data.linkedmdb.org/resource/actor/31932>,
+        <http://data.linkedmdb.org/resource/actor/32093>,
+        <http://data.linkedmdb.org/resource/actor/32661>,
+        <http://data.linkedmdb.org/resource/actor/32730>,
+        <http://data.linkedmdb.org/resource/actor/33712>,
+        <http://data.linkedmdb.org/resource/actor/34430>,
+        <http://data.linkedmdb.org/resource/actor/34492>,
+        <http://data.linkedmdb.org/resource/actor/37680>,
+        <http://data.linkedmdb.org/resource/actor/37983>,
+        <http://data.linkedmdb.org/resource/actor/38396>,
+        <http://data.linkedmdb.org/resource/actor/42962>,
+        <http://data.linkedmdb.org/resource/actor/51>,
+        <http://data.linkedmdb.org/resource/actor/9546>,
+        <http://data.linkedmdb.org/resource/actor/9547> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8424> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/19>,
+        <http://data.linkedmdb.org/resource/film_genre/27>,
+        <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/77> a ns1:film ;
+    rdfs:label "Pulp Fiction" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/29872>,
+        <http://data.linkedmdb.org/resource/actor/29873>,
+        <http://data.linkedmdb.org/resource/actor/29961>,
+        <http://data.linkedmdb.org/resource/actor/30060>,
+        <http://data.linkedmdb.org/resource/actor/30061>,
+        <http://data.linkedmdb.org/resource/actor/30652>,
+        <http://data.linkedmdb.org/resource/actor/30821>,
+        <http://data.linkedmdb.org/resource/actor/32015>,
+        <http://data.linkedmdb.org/resource/actor/33510>,
+        <http://data.linkedmdb.org/resource/actor/33579>,
+        <http://data.linkedmdb.org/resource/actor/34880>,
+        <http://data.linkedmdb.org/resource/actor/37165>,
+        <http://data.linkedmdb.org/resource/actor/40739>,
+        <http://data.linkedmdb.org/resource/actor/42969> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8469> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/8> a ns1:film ;
+    rdfs:label "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/29614>,
+        <http://data.linkedmdb.org/resource/actor/29874>,
+        <http://data.linkedmdb.org/resource/actor/29985>,
+        <http://data.linkedmdb.org/resource/actor/30085>,
+        <http://data.linkedmdb.org/resource/actor/34480>,
+        <http://data.linkedmdb.org/resource/actor/35078>,
+        <http://data.linkedmdb.org/resource/actor/42298>,
+        <http://data.linkedmdb.org/resource/actor/46909> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8476> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/17> .
+
+<http://data.linkedmdb.org/resource/film/81> a ns1:film ;
+    rdfs:label "Casablanca" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/29486>,
+        <http://data.linkedmdb.org/resource/actor/29725>,
+        <http://data.linkedmdb.org/resource/actor/29951>,
+        <http://data.linkedmdb.org/resource/actor/29956>,
+        <http://data.linkedmdb.org/resource/actor/31251>,
+        <http://data.linkedmdb.org/resource/actor/32738>,
+        <http://data.linkedmdb.org/resource/actor/34082>,
+        <http://data.linkedmdb.org/resource/actor/35469>,
+        <http://data.linkedmdb.org/resource/actor/40970>,
+        <http://data.linkedmdb.org/resource/actor/42115>,
+        <http://data.linkedmdb.org/resource/actor/49415>,
+        <http://data.linkedmdb.org/resource/actor/49942>,
+        <http://data.linkedmdb.org/resource/actor/51849>,
+        <http://data.linkedmdb.org/resource/actor/60883>,
+        <http://data.linkedmdb.org/resource/actor/953> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8650> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/27>,
+        <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/86> a ns1:film ;
+    rdfs:label "It's a Wonderful Life" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/181>,
+        <http://data.linkedmdb.org/resource/actor/29520>,
+        <http://data.linkedmdb.org/resource/actor/29987>,
+        <http://data.linkedmdb.org/resource/actor/32061>,
+        <http://data.linkedmdb.org/resource/actor/36227> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8409> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/15>,
+        <http://data.linkedmdb.org/resource/film_genre/27>,
+        <http://data.linkedmdb.org/resource/film_genre/4> .
+
+<http://data.linkedmdb.org/resource/film/9038> a ns1:film ;
+    rdfs:label "Doctor Zhivago" ;
+    ns1:actor <http://data.linkedmdb.org/resource/actor/29918>,
+        <http://data.linkedmdb.org/resource/actor/29925>,
+        <http://data.linkedmdb.org/resource/actor/30597>,
+        <http://data.linkedmdb.org/resource/actor/30909>,
+        <http://data.linkedmdb.org/resource/actor/33797>,
+        <http://data.linkedmdb.org/resource/actor/35693> ;
+    ns1:director <http://data.linkedmdb.org/resource/director/8612> ;
+    ns1:genre <http://data.linkedmdb.org/resource/film_genre/4> .
+

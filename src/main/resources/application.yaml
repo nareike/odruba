@@ -1,0 +1,12 @@
+spring:
+  jackson:
+    serialization-inclusion: non_null
+
+odruba:
+  graph: src/main/resources/config/graph_config.ttl
+  data:
+    input: src/main/resources/tutdata.ttl
+    ontology: src/main/resources/config/ontology_config.ttl
+    rulesets:
+      - src/main/resources/rulesets/example.rules
+      - src/main/resources/rulesets/styling.rules

@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://data.linkedmdb.org/resource/film_genre/12>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "War" .
+
+<http://data.linkedmdb.org/resource/film_genre/14>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Western" .
+
+<http://data.linkedmdb.org/resource/film_genre/15>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Family" .
+
+<http://data.linkedmdb.org/resource/film_genre/17>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Black comedy" .
+
+<http://data.linkedmdb.org/resource/film_genre/18>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Slasher" .
+
+<http://data.linkedmdb.org/resource/film_genre/19>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Disaster" .
+
+<http://data.linkedmdb.org/resource/film_genre/23>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Indie" .
+
+<http://data.linkedmdb.org/resource/film_genre/27>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Romance Film" .
+
+<http://data.linkedmdb.org/resource/film_genre/28>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Mystery" .
+
+<http://data.linkedmdb.org/resource/film_genre/30>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Biographical" .
+
+<http://data.linkedmdb.org/resource/film_genre/31>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Adventure" .
+
+<http://data.linkedmdb.org/resource/film_genre/35>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Epic" .
+
+<http://data.linkedmdb.org/resource/film_genre/4>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Drama" .
+
+<http://data.linkedmdb.org/resource/film_genre/47>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Action" .
+
+<http://data.linkedmdb.org/resource/film_genre/49>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Suspense" .
+
+<http://data.linkedmdb.org/resource/film_genre/53>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Neo-noir" .
+
+<http://data.linkedmdb.org/resource/film_genre/7>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Historical drama" .
+
+<http://data.linkedmdb.org/resource/film_genre/9>
+    a <http://data.linkedmdb.org/resource/movie/film_genre> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Musical" .
+

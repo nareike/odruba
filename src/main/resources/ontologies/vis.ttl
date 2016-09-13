@@ -1,0 +1,23 @@
+@base <http://example.org/vis/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix vis: <http://vis.example.org/> .
+
+vis:ColorCombination a owl:Class .
+vis:color
+    a owl:functionalProperty ;
+    rdfs:range vis:ColorCombination .
+vis:background
+    a owl:functionalProperty ;
+    rdfs:domain vis:ColorCombination .
+vis:border
+    a owl:functionalProperty ;
+    rdfs:domain vis:ColorCombination .
+vis:highlight
+    rdfs:domain vis:ColorCombination .
+vis:borderWidth a owl:DataTypeProperty .
+vis:shape a owl:DataTypeProperty .
+
+owl:topObjectProperty vis:hidden true .

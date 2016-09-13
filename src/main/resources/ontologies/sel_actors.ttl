@@ -1,0 +1,3189 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.linkedmdb.org/resource/actor/10> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Peter O'Toole" .
+
+<http://data.linkedmdb.org/resource/actor/10107> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tom Rosqui" .
+
+<http://data.linkedmdb.org/resource/actor/10137> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "J. Farrell MacDonald" .
+
+<http://data.linkedmdb.org/resource/actor/10246> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Walter Connolly" .
+
+<http://data.linkedmdb.org/resource/actor/10334> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Rebecca Williams" .
+
+<http://data.linkedmdb.org/resource/actor/10361> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lewis Abernathy" .
+
+<http://data.linkedmdb.org/resource/actor/10362> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Nicholas Cascone" .
+
+<http://data.linkedmdb.org/resource/actor/10450> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Konstantin Shayne" .
+
+<http://data.linkedmdb.org/resource/actor/10451> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Vaughn Taylor" .
+
+<http://data.linkedmdb.org/resource/actor/10480> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sean Sullivan" .
+
+<http://data.linkedmdb.org/resource/actor/10481> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Frank A. Miller" .
+
+<http://data.linkedmdb.org/resource/actor/10486> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Victor Rendina" .
+
+<http://data.linkedmdb.org/resource/actor/10487> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Gabriele Torrei" .
+
+<http://data.linkedmdb.org/resource/actor/10488> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Vincent Trok" .
+
+<http://data.linkedmdb.org/resource/actor/10497> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Walter Brooke" .
+
+<http://data.linkedmdb.org/resource/actor/10614> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mamo Clark" .
+
+<http://data.linkedmdb.org/resource/actor/10667> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tom Everett" .
+
+<http://data.linkedmdb.org/resource/actor/10878> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Elizabeth Wilson" .
+
+<http://data.linkedmdb.org/resource/actor/10994> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ranjeet" .
+
+<http://data.linkedmdb.org/resource/actor/110> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John C. McGinley" .
+
+<http://data.linkedmdb.org/resource/actor/111> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Donald O'Connor" .
+
+<http://data.linkedmdb.org/resource/actor/11295> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Harry Myers" .
+
+<http://data.linkedmdb.org/resource/actor/11300> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Holland" .
+
+<http://data.linkedmdb.org/resource/actor/11301> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Harold Herthum" .
+
+<http://data.linkedmdb.org/resource/actor/11501> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Beryl Mercer" .
+
+<http://data.linkedmdb.org/resource/actor/11635> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Florence Lee" .
+
+<http://data.linkedmdb.org/resource/actor/11763> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tom Helmore" .
+
+<http://data.linkedmdb.org/resource/actor/1241> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Owen Davis, Jr." .
+
+<http://data.linkedmdb.org/resource/actor/1279> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tommy Flanagan" .
+
+<http://data.linkedmdb.org/resource/actor/1295> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Boles" .
+
+<http://data.linkedmdb.org/resource/actor/138> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ben Johnson" .
+
+<http://data.linkedmdb.org/resource/actor/1489> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Daniel Richter" .
+
+<http://data.linkedmdb.org/resource/actor/1606> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Rudy Bond" .
+
+<http://data.linkedmdb.org/resource/actor/18> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Leslie Howard" .
+
+<http://data.linkedmdb.org/resource/actor/181> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Charles Lane" .
+
+<http://data.linkedmdb.org/resource/actor/1927> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Georges GuÃ©tary" .
+
+<http://data.linkedmdb.org/resource/actor/198> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "G. D. Spradlin" .
+
+<http://data.linkedmdb.org/resource/actor/209> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Charles Napier" .
+
+<http://data.linkedmdb.org/resource/actor/216> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bill Graham" .
+
+<http://data.linkedmdb.org/resource/actor/227> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Courtney B. Vance" .
+
+<http://data.linkedmdb.org/resource/actor/244> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Francis X. Bushman" .
+
+<http://data.linkedmdb.org/resource/actor/25> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Graham Greene" .
+
+<http://data.linkedmdb.org/resource/actor/2547> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Keefe Brasselle" .
+
+<http://data.linkedmdb.org/resource/actor/258> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Thomas Mitchell" .
+
+<http://data.linkedmdb.org/resource/actor/270> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Savage" .
+
+<http://data.linkedmdb.org/resource/actor/275> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Glover" .
+
+<http://data.linkedmdb.org/resource/actor/276> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "George Bancroft" .
+
+<http://data.linkedmdb.org/resource/actor/2822> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Florence Lee" .
+
+<http://data.linkedmdb.org/resource/actor/2823> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Harry Myers" .
+
+<http://data.linkedmdb.org/resource/actor/29365> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Alfred Hitchcock" .
+
+<http://data.linkedmdb.org/resource/actor/29374> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Anthony Hopkins" .
+
+<http://data.linkedmdb.org/resource/actor/29396> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Burt Lancaster" .
+
+<http://data.linkedmdb.org/resource/actor/29407> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Charlie Chaplin" .
+
+<http://data.linkedmdb.org/resource/actor/29414> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Carol Kane" .
+
+<http://data.linkedmdb.org/resource/actor/29420> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Drew Barrymore" .
+
+<http://data.linkedmdb.org/resource/actor/29437> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dennis Hopper" .
+
+<http://data.linkedmdb.org/resource/actor/29451> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Eli Wallach" .
+
+<http://data.linkedmdb.org/resource/actor/29454> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Francis Ford Coppola" .
+
+<http://data.linkedmdb.org/resource/actor/29456> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "FranÃ§ois Truffaut" .
+
+<http://data.linkedmdb.org/resource/actor/29459> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Frank Sinatra" .
+
+<http://data.linkedmdb.org/resource/actor/29468> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Gene Kelly" .
+
+<http://data.linkedmdb.org/resource/actor/29471> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Gene Hackman" .
+
+<http://data.linkedmdb.org/resource/actor/29486> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Humphrey Bogart" .
+
+<http://data.linkedmdb.org/resource/actor/29494> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ian McKellen" .
+
+<http://data.linkedmdb.org/resource/actor/29499> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jack Lemmon" .
+
+<http://data.linkedmdb.org/resource/actor/29507> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "James Cagney" .
+
+<http://data.linkedmdb.org/resource/actor/29510> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Wayne" .
+
+<http://data.linkedmdb.org/resource/actor/29515> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Joseph Cotten" .
+
+<http://data.linkedmdb.org/resource/actor/29520> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "James Stewart" .
+
+<http://data.linkedmdb.org/resource/actor/29531> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jon Voight" .
+
+<http://data.linkedmdb.org/resource/actor/29558> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Leslie Caron" .
+
+<http://data.linkedmdb.org/resource/actor/29570> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lee Van Cleef" .
+
+<http://data.linkedmdb.org/resource/actor/29581> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Marlon Brando" .
+
+<http://data.linkedmdb.org/resource/actor/29588> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Morgan Freeman" .
+
+<http://data.linkedmdb.org/resource/actor/29602> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Orson Welles" .
+
+<http://data.linkedmdb.org/resource/actor/29614> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Peter Sellers" .
+
+<http://data.linkedmdb.org/resource/actor/29625> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Robert De Niro" .
+
+<http://data.linkedmdb.org/resource/actor/29629> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Russell Crowe" .
+
+<http://data.linkedmdb.org/resource/actor/29638> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Robin Wright Penn" .
+
+<http://data.linkedmdb.org/resource/actor/29671> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tom Cruise" .
+
+<http://data.linkedmdb.org/resource/actor/29678> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Vivien Leigh" .
+
+<http://data.linkedmdb.org/resource/actor/29679> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Woody Allen" .
+
+<http://data.linkedmdb.org/resource/actor/29704> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jack Nicholson" .
+
+<http://data.linkedmdb.org/resource/actor/29713> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Cary Grant" .
+
+<http://data.linkedmdb.org/resource/actor/29718> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Orlando Bloom" .
+
+<http://data.linkedmdb.org/resource/actor/29725> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ingrid Bergman" .
+
+<http://data.linkedmdb.org/resource/actor/29726> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Al Pacino" .
+
+<http://data.linkedmdb.org/resource/actor/29731> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Clark Gable" .
+
+<http://data.linkedmdb.org/resource/actor/29734> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dustin Hoffman" .
+
+<http://data.linkedmdb.org/resource/actor/29738> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Elizabeth Taylor" .
+
+<http://data.linkedmdb.org/resource/actor/29740> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Grace Kelly" .
+
+<http://data.linkedmdb.org/resource/actor/29743> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sophie Marceau" .
+
+<http://data.linkedmdb.org/resource/actor/29751> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Barbara Stanwyck" .
+
+<http://data.linkedmdb.org/resource/actor/29752> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Katharine Hepburn" .
+
+<http://data.linkedmdb.org/resource/actor/29753> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Clint Eastwood" .
+
+<http://data.linkedmdb.org/resource/actor/29755> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tom Hanks" .
+
+<http://data.linkedmdb.org/resource/actor/29764> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Anthony Quinn" .
+
+<http://data.linkedmdb.org/resource/actor/29767> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Harrison Ford" .
+
+<http://data.linkedmdb.org/resource/actor/29769> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Huston" .
+
+<http://data.linkedmdb.org/resource/actor/29770> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mel Gibson" .
+
+<http://data.linkedmdb.org/resource/actor/29774> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Gary Cooper" .
+
+<http://data.linkedmdb.org/resource/actor/29802> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jodie Foster" .
+
+<http://data.linkedmdb.org/resource/actor/29804> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Henry Fonda" .
+
+<http://data.linkedmdb.org/resource/actor/29815> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Leonard Rossiter" .
+
+<http://data.linkedmdb.org/resource/actor/29821> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Paul Newman" .
+
+<http://data.linkedmdb.org/resource/actor/29830> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Paul Simon" .
+
+<http://data.linkedmdb.org/resource/actor/29849> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Audrey Hepburn" .
+
+<http://data.linkedmdb.org/resource/actor/29851> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Kate Winslet" .
+
+<http://data.linkedmdb.org/resource/actor/29852> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Leonardo DiCaprio" .
+
+<http://data.linkedmdb.org/resource/actor/29857> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Robin Williams" .
+
+<http://data.linkedmdb.org/resource/actor/29862> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Christopher Lee" .
+
+<http://data.linkedmdb.org/resource/actor/29869> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "David Niven" .
+
+<http://data.linkedmdb.org/resource/actor/29872> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Travolta" .
+
+<http://data.linkedmdb.org/resource/actor/29873> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Samuel L. Jackson" .
+
+<http://data.linkedmdb.org/resource/actor/29874> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "James Earl Jones" .
+
+<http://data.linkedmdb.org/resource/actor/29900> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Judy Garland" .
+
+<http://data.linkedmdb.org/resource/actor/29901> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ron Howard" .
+
+<http://data.linkedmdb.org/resource/actor/29903> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "James Dean" .
+
+<http://data.linkedmdb.org/resource/actor/29918> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Rod Steiger" .
+
+<http://data.linkedmdb.org/resource/actor/29919> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Claudette Colbert" .
+
+<http://data.linkedmdb.org/resource/actor/29923> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Charles Laughton" .
+
+<http://data.linkedmdb.org/resource/actor/29925> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Alec Guinness" .
+
+<http://data.linkedmdb.org/resource/actor/29929> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Robert Redford" .
+
+<http://data.linkedmdb.org/resource/actor/29932> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Raymond Burr" .
+
+<http://data.linkedmdb.org/resource/actor/29939> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Warren Beatty" .
+
+<http://data.linkedmdb.org/resource/actor/29942> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Deborah Kerr" .
+
+<http://data.linkedmdb.org/resource/actor/29945> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Meryl Streep" .
+
+<http://data.linkedmdb.org/resource/actor/29951> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Claude Rains" .
+
+<http://data.linkedmdb.org/resource/actor/29953> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Fredric March" .
+
+<http://data.linkedmdb.org/resource/actor/29956> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Peter Lorre" .
+
+<http://data.linkedmdb.org/resource/actor/29959> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Liam Neeson" .
+
+<http://data.linkedmdb.org/resource/actor/29961> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bruce Willis" .
+
+<http://data.linkedmdb.org/resource/actor/29965> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sigourney Weaver" .
+
+<http://data.linkedmdb.org/resource/actor/29985> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Slim Pickens" .
+
+<http://data.linkedmdb.org/resource/actor/29987> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lionel Barrymore" .
+
+<http://data.linkedmdb.org/resource/actor/29989> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Boris Karloff" .
+
+<http://data.linkedmdb.org/resource/actor/29996> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jessica Lange" .
+
+<http://data.linkedmdb.org/resource/actor/30000> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Martin Sheen" .
+
+<http://data.linkedmdb.org/resource/actor/30004> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Faye Dunaway" .
+
+<http://data.linkedmdb.org/resource/actor/30013> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Scatman Crothers" .
+
+<http://data.linkedmdb.org/resource/actor/30028> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Johnny Depp" .
+
+<http://data.linkedmdb.org/resource/actor/30033> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Christopher Reeve" .
+
+<http://data.linkedmdb.org/resource/actor/30035> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Katy Jurado" .
+
+<http://data.linkedmdb.org/resource/actor/30038> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "James Mason" .
+
+<http://data.linkedmdb.org/resource/actor/30049> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Max von Sydow" .
+
+<http://data.linkedmdb.org/resource/actor/30051> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Wolfman Jack" .
+
+<http://data.linkedmdb.org/resource/actor/30053> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Natalie Wood" .
+
+<http://data.linkedmdb.org/resource/actor/30054> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Gregory Peck" .
+
+<http://data.linkedmdb.org/resource/actor/30058> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Julie Elizabeth Andrews" .
+
+<http://data.linkedmdb.org/resource/actor/30060> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Uma Thurman" .
+
+<http://data.linkedmdb.org/resource/actor/30061> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Harvey Keitel" .
+
+<http://data.linkedmdb.org/resource/actor/30085> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "George C. Scott" .
+
+<http://data.linkedmdb.org/resource/actor/30105> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Fred MacMurray" .
+
+<http://data.linkedmdb.org/resource/actor/30126> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Olivia de Havilland" .
+
+<http://data.linkedmdb.org/resource/actor/30153> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Debi Mazar" .
+
+<http://data.linkedmdb.org/resource/actor/30163> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Hattie McDaniel" .
+
+<http://data.linkedmdb.org/resource/actor/30186> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Rex Harrison" .
+
+<http://data.linkedmdb.org/resource/actor/30232> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bill Murray" .
+
+<http://data.linkedmdb.org/resource/actor/30236> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Paul Morrissey" .
+
+<http://data.linkedmdb.org/resource/actor/30241> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Danny DeVito" .
+
+<http://data.linkedmdb.org/resource/actor/30260> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sean Astin" .
+
+<http://data.linkedmdb.org/resource/actor/30270> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "JosÃ© Ferrer" .
+
+<http://data.linkedmdb.org/resource/actor/30283> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Paul Giamatti" .
+
+<http://data.linkedmdb.org/resource/actor/30285> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Richard Harris" .
+
+<http://data.linkedmdb.org/resource/actor/30303> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lily Tomlin" .
+
+<http://data.linkedmdb.org/resource/actor/30319> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Kevin Costner" .
+
+<http://data.linkedmdb.org/resource/actor/30335> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Frank Morgan" .
+
+<http://data.linkedmdb.org/resource/actor/30337> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Franchot Tone" .
+
+<http://data.linkedmdb.org/resource/actor/30338> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Walter Huston" .
+
+<http://data.linkedmdb.org/resource/actor/30357> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Peter Stormare" .
+
+<http://data.linkedmdb.org/resource/actor/30365> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "William Holden" .
+
+<http://data.linkedmdb.org/resource/actor/30367> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Shirley MacLaine" .
+
+<http://data.linkedmdb.org/resource/actor/30368> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Myrna Loy" .
+
+<http://data.linkedmdb.org/resource/actor/30400> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lew Ayres" .
+
+<http://data.linkedmdb.org/resource/actor/30404> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Montgomery Clift" .
+
+<http://data.linkedmdb.org/resource/actor/30485> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Laurence Fishburne" .
+
+<http://data.linkedmdb.org/resource/actor/30512> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Will Sampson" .
+
+<http://data.linkedmdb.org/resource/actor/30518> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dana Andrews" .
+
+<http://data.linkedmdb.org/resource/actor/30519> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Stanley Holloway" .
+
+<http://data.linkedmdb.org/resource/actor/30536> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ben Affleck" .
+
+<http://data.linkedmdb.org/resource/actor/30539> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Richard Dreyfuss" .
+
+<http://data.linkedmdb.org/resource/actor/30540> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Billy Boyd" .
+
+<http://data.linkedmdb.org/resource/actor/30546> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Cate Blanchett" .
+
+<http://data.linkedmdb.org/resource/actor/30550> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Andy Devine" .
+
+<http://data.linkedmdb.org/resource/actor/30551> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Kim Hunter" .
+
+<http://data.linkedmdb.org/resource/actor/30558> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Cynthia Nixon" .
+
+<http://data.linkedmdb.org/resource/actor/30559> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Robert Duvall" .
+
+<http://data.linkedmdb.org/resource/actor/30560> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bob Hope" .
+
+<http://data.linkedmdb.org/resource/actor/30562> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ernest Borgnine" .
+
+<http://data.linkedmdb.org/resource/actor/30563> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Rock Hudson" .
+
+<http://data.linkedmdb.org/resource/actor/30566> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Trevor Howard" .
+
+<http://data.linkedmdb.org/resource/actor/30590> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Harry Dean Stanton" .
+
+<http://data.linkedmdb.org/resource/actor/30594> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bonnie Hunt" .
+
+<http://data.linkedmdb.org/resource/actor/30597> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Julie Christie" .
+
+<http://data.linkedmdb.org/resource/actor/30604> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "James Whitmore" .
+
+<http://data.linkedmdb.org/resource/actor/30609> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Elijah Wood" .
+
+<http://data.linkedmdb.org/resource/actor/30610> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bernard Hill" .
+
+<http://data.linkedmdb.org/resource/actor/30615> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Roy Scheider" .
+
+<http://data.linkedmdb.org/resource/actor/30638> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Matt Damon" .
+
+<http://data.linkedmdb.org/resource/actor/30646> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Anthony Perkins" .
+
+<http://data.linkedmdb.org/resource/actor/30648> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Gladys Cooper" .
+
+<http://data.linkedmdb.org/resource/actor/30650> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sal Mineo" .
+
+<http://data.linkedmdb.org/resource/actor/30652> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Christopher Walken" .
+
+<http://data.linkedmdb.org/resource/actor/30657> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Derek Jacobi" .
+
+<http://data.linkedmdb.org/resource/actor/30663> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Denholm Elliott" .
+
+<http://data.linkedmdb.org/resource/actor/30666> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ben Kingsley" .
+
+<http://data.linkedmdb.org/resource/actor/30668> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tom Hulce" .
+
+<http://data.linkedmdb.org/resource/actor/30688> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Vincent Schiavelli" .
+
+<http://data.linkedmdb.org/resource/actor/30709> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jeremy Brett" .
+
+<http://data.linkedmdb.org/resource/actor/30710> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Peter Finch" .
+
+<http://data.linkedmdb.org/resource/actor/30711> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Hugo Weaving" .
+
+<http://data.linkedmdb.org/resource/actor/30723> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ian Holm" .
+
+<http://data.linkedmdb.org/resource/actor/30727> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ralph Fiennes" .
+
+<http://data.linkedmdb.org/resource/actor/30752> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Edward G. Robinson" .
+
+<http://data.linkedmdb.org/resource/actor/30772> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Hoagy Carmichael" .
+
+<http://data.linkedmdb.org/resource/actor/30786> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Rhys-Davies" .
+
+<http://data.linkedmdb.org/resource/actor/30795> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ray Bolger" .
+
+<http://data.linkedmdb.org/resource/actor/30800> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Joaquin Phoenix" .
+
+<http://data.linkedmdb.org/resource/actor/30821> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Steve Buscemi" .
+
+<http://data.linkedmdb.org/resource/actor/30837> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Teresa Wright" .
+
+<http://data.linkedmdb.org/resource/actor/30839> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jean Arthur" .
+
+<http://data.linkedmdb.org/resource/actor/30879> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Michael J. Pollard" .
+
+<http://data.linkedmdb.org/resource/actor/30884> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ellen Burstyn" .
+
+<http://data.linkedmdb.org/resource/actor/30891> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Eleanor Parker" .
+
+<http://data.linkedmdb.org/resource/actor/30892> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Shelley Winters" .
+
+<http://data.linkedmdb.org/resource/actor/30909> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Omar Sharif" .
+
+<http://data.linkedmdb.org/resource/actor/30911> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Carroll Baker" .
+
+<http://data.linkedmdb.org/resource/actor/30947> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Malcolm McDowell" .
+
+<http://data.linkedmdb.org/resource/actor/30972> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Agnes Moorehead" .
+
+<http://data.linkedmdb.org/resource/actor/30973> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Diane Keaton" .
+
+<http://data.linkedmdb.org/resource/actor/30989> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Michael Jeter" .
+
+<http://data.linkedmdb.org/resource/actor/31007> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Anne Bancroft" .
+
+<http://data.linkedmdb.org/resource/actor/31048> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Willem Dafoe" .
+
+<http://data.linkedmdb.org/resource/actor/31068> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Eva Marie Saint" .
+
+<http://data.linkedmdb.org/resource/actor/31073> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ted Danson" .
+
+<http://data.linkedmdb.org/resource/actor/31074> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Patricia Hitchcock" .
+
+<http://data.linkedmdb.org/resource/actor/31078> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Minnie Driver" .
+
+<http://data.linkedmdb.org/resource/actor/31079> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Geena Davis" .
+
+<http://data.linkedmdb.org/resource/actor/31106> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Paul Le Mat" .
+
+<http://data.linkedmdb.org/resource/actor/31131> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Louise Fletcher" .
+
+<http://data.linkedmdb.org/resource/actor/31134> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Talia Shire" .
+
+<http://data.linkedmdb.org/resource/actor/31161> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Janet Leigh" .
+
+<http://data.linkedmdb.org/resource/actor/31186> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Anjelica Huston" .
+
+<http://data.linkedmdb.org/resource/actor/31198> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "C. Thomas Howell" .
+
+<http://data.linkedmdb.org/resource/actor/31214> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Diane Ladd" .
+
+<http://data.linkedmdb.org/resource/actor/31220> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sally Field" .
+
+<http://data.linkedmdb.org/resource/actor/31238> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Debra Winger" .
+
+<http://data.linkedmdb.org/resource/actor/31243> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jim Backus" .
+
+<http://data.linkedmdb.org/resource/actor/31245> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ray Walston" .
+
+<http://data.linkedmdb.org/resource/actor/31251> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sydney Greenstreet" .
+
+<http://data.linkedmdb.org/resource/actor/31258> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "George M. Cohan" .
+
+<http://data.linkedmdb.org/resource/actor/31272> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dominic Monaghan" .
+
+<http://data.linkedmdb.org/resource/actor/31302> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Albert Hall" .
+
+<http://data.linkedmdb.org/resource/actor/31309> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "George Reeves" .
+
+<http://data.linkedmdb.org/resource/actor/31315> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Christopher Lloyd" .
+
+<http://data.linkedmdb.org/resource/actor/31329> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Martin Landau" .
+
+<http://data.linkedmdb.org/resource/actor/31332> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Kim Novak" .
+
+<http://data.linkedmdb.org/resource/actor/31340> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "R. Lee Ermey" .
+
+<http://data.linkedmdb.org/resource/actor/31386> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tim Robbins" .
+
+<http://data.linkedmdb.org/resource/actor/31391> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Oscar Levant" .
+
+<http://data.linkedmdb.org/resource/actor/31403> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Suzanne Somers" .
+
+<http://data.linkedmdb.org/resource/actor/31407> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lloyd Bridges" .
+
+<http://data.linkedmdb.org/resource/actor/31409> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Frances McDormand" .
+
+<http://data.linkedmdb.org/resource/actor/31431> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Catherine McCormack" .
+
+<http://data.linkedmdb.org/resource/actor/31432> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Haley Joel Osment" .
+
+<http://data.linkedmdb.org/resource/actor/31450> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Joe Pesci" .
+
+<http://data.linkedmdb.org/resource/actor/31457> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Charlie Sheen" .
+
+<http://data.linkedmdb.org/resource/actor/31526> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Liv Tyler" .
+
+<http://data.linkedmdb.org/resource/actor/31547> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jessie Royce Landis" .
+
+<http://data.linkedmdb.org/resource/actor/31581> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bill Paxton" .
+
+<http://data.linkedmdb.org/resource/actor/31605> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Turturro" .
+
+<http://data.linkedmdb.org/resource/actor/31645> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Douglas Rain" .
+
+<http://data.linkedmdb.org/resource/actor/31673> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Robert Morley" .
+
+<http://data.linkedmdb.org/resource/actor/31700> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Billy Zane" .
+
+<http://data.linkedmdb.org/resource/actor/31725> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Oliver Reed" .
+
+<http://data.linkedmdb.org/resource/actor/31732> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Keir Dullea" .
+
+<http://data.linkedmdb.org/resource/actor/31743> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tony Danza" .
+
+<http://data.linkedmdb.org/resource/actor/31777> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Daryl Hannah" .
+
+<http://data.linkedmdb.org/resource/actor/31790> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Victor Garber" .
+
+<http://data.linkedmdb.org/resource/actor/31792> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Karl Malden" .
+
+<http://data.linkedmdb.org/resource/actor/31803> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Christopher Plummer" .
+
+<http://data.linkedmdb.org/resource/actor/31818> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Lithgow" .
+
+<http://data.linkedmdb.org/resource/actor/31839> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jeff Goldblum" .
+
+<http://data.linkedmdb.org/resource/actor/31851> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Emilio Estevez" .
+
+<http://data.linkedmdb.org/resource/actor/31853> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "James Gandolfini" .
+
+<http://data.linkedmdb.org/resource/actor/31860> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bebe Daniels" .
+
+<http://data.linkedmdb.org/resource/actor/31887> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Paulette Goddard" .
+
+<http://data.linkedmdb.org/resource/actor/31896> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sofia Coppola" .
+
+<http://data.linkedmdb.org/resource/actor/31901> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Claire Trevor" .
+
+<http://data.linkedmdb.org/resource/actor/31932> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Michael Martin" .
+
+<http://data.linkedmdb.org/resource/actor/31965> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Linda Blair" .
+
+<http://data.linkedmdb.org/resource/actor/31995> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Carradine" .
+
+<http://data.linkedmdb.org/resource/actor/31997> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tom Berenger" .
+
+<http://data.linkedmdb.org/resource/actor/32002> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dan Butler" .
+
+<http://data.linkedmdb.org/resource/actor/32010> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Strother Martin" .
+
+<http://data.linkedmdb.org/resource/actor/32015> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tim Roth" .
+
+<http://data.linkedmdb.org/resource/actor/32036> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "David Hemmings" .
+
+<http://data.linkedmdb.org/resource/actor/32041> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Patrick McGoohan" .
+
+<http://data.linkedmdb.org/resource/actor/32061> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Donna Reed" .
+
+<http://data.linkedmdb.org/resource/actor/32068> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dev Anand" .
+
+<http://data.linkedmdb.org/resource/actor/32072> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "William H. Macy" .
+
+<http://data.linkedmdb.org/resource/actor/32093> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ioan Gruffudd" .
+
+<http://data.linkedmdb.org/resource/actor/32094> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Andy Serkis" .
+
+<http://data.linkedmdb.org/resource/actor/32097> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "James Cromwell" .
+
+<http://data.linkedmdb.org/resource/actor/32108> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Karl Urban" .
+
+<http://data.linkedmdb.org/resource/actor/32130> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "James Caan" .
+
+<http://data.linkedmdb.org/resource/actor/32143> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bert Lahr" .
+
+<http://data.linkedmdb.org/resource/actor/32147> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Rita Moreno" .
+
+<http://data.linkedmdb.org/resource/actor/32148> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Katherine Heigl" .
+
+<http://data.linkedmdb.org/resource/actor/32159> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tom Sizemore" .
+
+<http://data.linkedmdb.org/resource/actor/32161> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ben Alexander" .
+
+<http://data.linkedmdb.org/resource/actor/32167> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Vin Diesel" .
+
+<http://data.linkedmdb.org/resource/actor/32205> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Evelyn Keyes" .
+
+<http://data.linkedmdb.org/resource/actor/32242> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Fortunio Bonanova" .
+
+<http://data.linkedmdb.org/resource/actor/32260> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Herman J. Mankiewicz" .
+
+<http://data.linkedmdb.org/resource/actor/32318> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Miranda Otto" .
+
+<http://data.linkedmdb.org/resource/actor/32337> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sydney Pollack" .
+
+<http://data.linkedmdb.org/resource/actor/32365> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Thelma Todd" .
+
+<http://data.linkedmdb.org/resource/actor/32368> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Brad Dourif" .
+
+<http://data.linkedmdb.org/resource/actor/32409> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "David Wenham" .
+
+<http://data.linkedmdb.org/resource/actor/32439> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Djimon Hounsou" .
+
+<http://data.linkedmdb.org/resource/actor/32440> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Patricia Clarkson" .
+
+<http://data.linkedmdb.org/resource/actor/32495> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Noble" .
+
+<http://data.linkedmdb.org/resource/actor/32530> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Billie Burke" .
+
+<http://data.linkedmdb.org/resource/actor/32553> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sean Bean" .
+
+<http://data.linkedmdb.org/resource/actor/32558> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Theodore Bikel" .
+
+<http://data.linkedmdb.org/resource/actor/32562> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Butterfly McQueen" .
+
+<http://data.linkedmdb.org/resource/actor/32566> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Harry Morgan" .
+
+<http://data.linkedmdb.org/resource/actor/32596> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sarah McLeod" .
+
+<http://data.linkedmdb.org/resource/actor/326> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Rodney A. Grant" .
+
+<http://data.linkedmdb.org/resource/actor/32603> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ray Liotta" .
+
+<http://data.linkedmdb.org/resource/actor/32622> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Karen Allen" .
+
+<http://data.linkedmdb.org/resource/actor/32625> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mary McDonnell" .
+
+<http://data.linkedmdb.org/resource/actor/32628> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jack Haley" .
+
+<http://data.linkedmdb.org/resource/actor/32646> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Robert Beatty" .
+
+<http://data.linkedmdb.org/resource/actor/32649> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Robert Pastorelli" .
+
+<http://data.linkedmdb.org/resource/actor/32655> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Alan Ladd" .
+
+<http://data.linkedmdb.org/resource/actor/32661> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Kathy Bates" .
+
+<http://data.linkedmdb.org/resource/actor/32669> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Abe Vigoda" .
+
+<http://data.linkedmdb.org/resource/actor/32673> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Charles Rocket" .
+
+<http://data.linkedmdb.org/resource/actor/32675> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Cloris Leachman" .
+
+<http://data.linkedmdb.org/resource/actor/32679> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Floyd Red Crow Westerman" .
+
+<http://data.linkedmdb.org/resource/actor/32692> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Gary Sinise" .
+
+<http://data.linkedmdb.org/resource/actor/32696> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lorraine Bracco" .
+
+<http://data.linkedmdb.org/resource/actor/32711> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Michael Clarke Duncan" .
+
+<http://data.linkedmdb.org/resource/actor/32730> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Gloria Stuart" .
+
+<http://data.linkedmdb.org/resource/actor/32738> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Paul Henreid" .
+
+<http://data.linkedmdb.org/resource/actor/32751> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mercedes McCambridge" .
+
+<http://data.linkedmdb.org/resource/actor/32752> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Teri Garr" .
+
+<http://data.linkedmdb.org/resource/actor/32758> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Stellan SkarsgÃ¥rd" .
+
+<http://data.linkedmdb.org/resource/actor/32779> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ned Beatty" .
+
+<http://data.linkedmdb.org/resource/actor/32780> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Armin Mueller-Stahl" .
+
+<http://data.linkedmdb.org/resource/actor/32856> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Roberts Blossom" .
+
+<http://data.linkedmdb.org/resource/actor/32882> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Buck Henry" .
+
+<http://data.linkedmdb.org/resource/actor/32892> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "RamÃ³n Novarro" .
+
+<http://data.linkedmdb.org/resource/actor/32911> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Brandon De Wilde" .
+
+<http://data.linkedmdb.org/resource/actor/32913> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Peter Coyote" .
+
+<http://data.linkedmdb.org/resource/actor/32920> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jeffrey Jones" .
+
+<http://data.linkedmdb.org/resource/actor/32970> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dabney Coleman" .
+
+<http://data.linkedmdb.org/resource/actor/32999> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Nathan Fillion" .
+
+<http://data.linkedmdb.org/resource/actor/33001> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Margaret Hamilton" .
+
+<http://data.linkedmdb.org/resource/actor/33020> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Katharine Ross" .
+
+<http://data.linkedmdb.org/resource/actor/33053> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Robert Forster" .
+
+<http://data.linkedmdb.org/resource/actor/33056> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jack Palance" .
+
+<http://data.linkedmdb.org/resource/actor/33098> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "George Dzundza" .
+
+<http://data.linkedmdb.org/resource/actor/33125> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Alfred Molina" .
+
+<http://data.linkedmdb.org/resource/actor/33135> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jack Warden" .
+
+<http://data.linkedmdb.org/resource/actor/33182> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Brian Cox" .
+
+<http://data.linkedmdb.org/resource/actor/33205> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Saul Zaentz" .
+
+<http://data.linkedmdb.org/resource/actor/33226> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Forest Whitaker" .
+
+<http://data.linkedmdb.org/resource/actor/33232> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sonny Shroyer" .
+
+<http://data.linkedmdb.org/resource/actor/33253> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Charles Durning" .
+
+<http://data.linkedmdb.org/resource/actor/33256> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lance Henriksen" .
+
+<http://data.linkedmdb.org/resource/actor/33311> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Red Buttons" .
+
+<http://data.linkedmdb.org/resource/actor/33320> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lee J. Cobb" .
+
+<http://data.linkedmdb.org/resource/actor/33383> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "William Daniels" .
+
+<http://data.linkedmdb.org/resource/actor/33401> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Anna Lee" .
+
+<http://data.linkedmdb.org/resource/actor/33402> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Harold Russell" .
+
+<http://data.linkedmdb.org/resource/actor/33412> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Nicholas Hammond" .
+
+<http://data.linkedmdb.org/resource/actor/33455> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Anthony Quayle" .
+
+<http://data.linkedmdb.org/resource/actor/33510> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ving Rhames" .
+
+<http://data.linkedmdb.org/resource/actor/33512> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Casey Affleck" .
+
+<http://data.linkedmdb.org/resource/actor/33579> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Eric Stoltz" .
+
+<http://data.linkedmdb.org/resource/actor/33581> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Richard Conte" .
+
+<http://data.linkedmdb.org/resource/actor/33617> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Embeth Davidtz" .
+
+<http://data.linkedmdb.org/resource/actor/33644> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Martin Balsam" .
+
+<http://data.linkedmdb.org/resource/actor/33653> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Paul McCrane" .
+
+<http://data.linkedmdb.org/resource/actor/33712> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Eric Braeden" .
+
+<http://data.linkedmdb.org/resource/actor/33741> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Pat Roach" .
+
+<http://data.linkedmdb.org/resource/actor/33758> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jeff Daniels" .
+
+<http://data.linkedmdb.org/resource/actor/33797> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Geraldine Chaplin" .
+
+<http://data.linkedmdb.org/resource/actor/33822> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "William Petersen" .
+
+<http://data.linkedmdb.org/resource/actor/33834> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Irene Manning" .
+
+<http://data.linkedmdb.org/resource/actor/33871> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Russ Tamblyn" .
+
+<http://data.linkedmdb.org/resource/actor/33880> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Una Merkel" .
+
+<http://data.linkedmdb.org/resource/actor/33881> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Anne Revere" .
+
+<http://data.linkedmdb.org/resource/actor/33885> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jane Darwell" .
+
+<http://data.linkedmdb.org/resource/actor/33894> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Cyd Charisse" .
+
+<http://data.linkedmdb.org/resource/actor/33897> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Estelle Parsons" .
+
+<http://data.linkedmdb.org/resource/actor/33923> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Donald Crisp" .
+
+<http://data.linkedmdb.org/resource/actor/33927> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Van Heflin" .
+
+<http://data.linkedmdb.org/resource/actor/33943> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "George Chakiris" .
+
+<http://data.linkedmdb.org/resource/actor/33977> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ted Levine" .
+
+<http://data.linkedmdb.org/resource/actor/33988> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ann Rutherford" .
+
+<http://data.linkedmdb.org/resource/actor/34009> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mackenzie Phillips" .
+
+<http://data.linkedmdb.org/resource/actor/34011> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "George Gaynes" .
+
+<http://data.linkedmdb.org/resource/actor/34036> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dennis Farina" .
+
+<http://data.linkedmdb.org/resource/actor/34064> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Cazale" .
+
+<http://data.linkedmdb.org/resource/actor/34077> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Giovanni Ribisi" .
+
+<http://data.linkedmdb.org/resource/actor/34082> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Conrad Veidt" .
+
+<http://data.linkedmdb.org/resource/actor/34128> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sessue Hayakawa" .
+
+<http://data.linkedmdb.org/resource/actor/34203> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Peggy Wood" .
+
+<http://data.linkedmdb.org/resource/actor/34232> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Adam Goldberg" .
+
+<http://data.linkedmdb.org/resource/actor/34327> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Harve Presnell" .
+
+<http://data.linkedmdb.org/resource/actor/34332> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Keith Carradine" .
+
+<http://data.linkedmdb.org/resource/actor/34333> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Vera Miles" .
+
+<http://data.linkedmdb.org/resource/actor/34357> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sanjay Dutt" .
+
+<http://data.linkedmdb.org/resource/actor/34430> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bernard Fox" .
+
+<http://data.linkedmdb.org/resource/actor/34434> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bernard Lee" .
+
+<http://data.linkedmdb.org/resource/actor/34463> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Keith David" .
+
+<http://data.linkedmdb.org/resource/actor/34473> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Paul Sorvino" .
+
+<http://data.linkedmdb.org/resource/actor/34480> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sterling Hayden" .
+
+<http://data.linkedmdb.org/resource/actor/34492> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Frances Fisher" .
+
+<http://data.linkedmdb.org/resource/actor/34608> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Christopher Masterson" .
+
+<http://data.linkedmdb.org/resource/actor/34723> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Kenneth Mars" .
+
+<http://data.linkedmdb.org/resource/actor/34727> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jack Hawkins" .
+
+<http://data.linkedmdb.org/resource/actor/34739> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ted Cassidy" .
+
+<http://data.linkedmdb.org/resource/actor/34772> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Clancy Brown" .
+
+<http://data.linkedmdb.org/resource/actor/34792> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "David Prowse" .
+
+<http://data.linkedmdb.org/resource/actor/34828> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Virginia Mayo" .
+
+<http://data.linkedmdb.org/resource/actor/34880> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Amanda Plummer" .
+
+<http://data.linkedmdb.org/resource/actor/34932> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Gary Lockwood" .
+
+<http://data.linkedmdb.org/resource/actor/34942> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Vittorio Storaro" .
+
+<http://data.linkedmdb.org/resource/actor/3497> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Don Gordon Bell" .
+
+<http://data.linkedmdb.org/resource/actor/34988> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Norman Fell" .
+
+<http://data.linkedmdb.org/resource/actor/35060> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Raymond Bailey" .
+
+<http://data.linkedmdb.org/resource/actor/35070> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Shelley Duvall" .
+
+<http://data.linkedmdb.org/resource/actor/35078> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Keenan Wynn" .
+
+<http://data.linkedmdb.org/resource/actor/35150> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Merle Travis" .
+
+<http://data.linkedmdb.org/resource/actor/352> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "M. Emmet Walsh" .
+
+<http://data.linkedmdb.org/resource/actor/35231> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Amy Wright" .
+
+<http://data.linkedmdb.org/resource/actor/35248> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tony Todd" .
+
+<http://data.linkedmdb.org/resource/actor/35257> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Amjad Khan" .
+
+<http://data.linkedmdb.org/resource/actor/35277> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Henry Thomas" .
+
+<http://data.linkedmdb.org/resource/actor/35313> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Colin Clive" .
+
+<http://data.linkedmdb.org/resource/actor/35407> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ian Bannen" .
+
+<http://data.linkedmdb.org/resource/actor/35451> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Frederic Forrest" .
+
+<http://data.linkedmdb.org/resource/actor/35469> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Joy Page" .
+
+<http://data.linkedmdb.org/resource/actor/35502> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Beulah Bondi" .
+
+<http://data.linkedmdb.org/resource/actor/35533> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Millard Mitchell" .
+
+<http://data.linkedmdb.org/resource/actor/35543> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Henry Gibson" .
+
+<http://data.linkedmdb.org/resource/actor/35610> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bill Lee" .
+
+<http://data.linkedmdb.org/resource/actor/35623> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Scott Glenn" .
+
+<http://data.linkedmdb.org/resource/actor/35693> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Rita Tushingham" .
+
+<http://data.linkedmdb.org/resource/actor/35706> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tina Munim" .
+
+<http://data.linkedmdb.org/resource/actor/35716> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "H. B. Warner" .
+
+<http://data.linkedmdb.org/resource/actor/35812> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Barry Pepper" .
+
+<http://data.linkedmdb.org/resource/actor/35815> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mark Rolston" .
+
+<http://data.linkedmdb.org/resource/actor/35824> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bruce Glover" .
+
+<http://data.linkedmdb.org/resource/actor/35842> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dee Wallace-Stone" .
+
+<http://data.linkedmdb.org/resource/actor/35878> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ann Doran" .
+
+<http://data.linkedmdb.org/resource/actor/35879> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Angus Macfadyen" .
+
+<http://data.linkedmdb.org/resource/actor/35887> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mykelti Williamson" .
+
+<http://data.linkedmdb.org/resource/actor/35955> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ruth Hussey" .
+
+<http://data.linkedmdb.org/resource/actor/35960> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jean Hagen" .
+
+<http://data.linkedmdb.org/resource/actor/35971> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bruce Spence" .
+
+<http://data.linkedmdb.org/resource/actor/36033> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Erika Christensen" .
+
+<http://data.linkedmdb.org/resource/actor/36087> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Cindy Williams" .
+
+<http://data.linkedmdb.org/resource/actor/36130> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Gavin" .
+
+<http://data.linkedmdb.org/resource/actor/36180> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Edward Burns" .
+
+<http://data.linkedmdb.org/resource/actor/36188> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Connie Nielsen" .
+
+<http://data.linkedmdb.org/resource/actor/36190> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sam Rockwell" .
+
+<http://data.linkedmdb.org/resource/actor/36198> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Angela Cartwright" .
+
+<http://data.linkedmdb.org/resource/actor/36213> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Charles Martin Smith" .
+
+<http://data.linkedmdb.org/resource/actor/36224> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jack Oakie" .
+
+<http://data.linkedmdb.org/resource/actor/36226> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "James Gleason" .
+
+<http://data.linkedmdb.org/resource/actor/36227> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Henry Travers" .
+
+<http://data.linkedmdb.org/resource/actor/36234> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ruth Warrick" .
+
+<http://data.linkedmdb.org/resource/actor/36260> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Spencer Treat Clark" .
+
+<http://data.linkedmdb.org/resource/actor/36299> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tantoo Cardinal" .
+
+<http://data.linkedmdb.org/resource/actor/36303> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Hillerman" .
+
+<http://data.linkedmdb.org/resource/actor/36315> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jack Kruschen" .
+
+<http://data.linkedmdb.org/resource/actor/36336> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Marley" .
+
+<http://data.linkedmdb.org/resource/actor/36405> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Charles Grapewin" .
+
+<http://data.linkedmdb.org/resource/actor/36468> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dwight Frye" .
+
+<http://data.linkedmdb.org/resource/actor/36469> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Paul Freeman" .
+
+<http://data.linkedmdb.org/resource/actor/36489> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bob Balaban" .
+
+<http://data.linkedmdb.org/resource/actor/36512> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Wilfrid Hyde-White" .
+
+<http://data.linkedmdb.org/resource/actor/36533> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Siobhan Fallon" .
+
+<http://data.linkedmdb.org/resource/actor/36564> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Brendan Gleeson" .
+
+<http://data.linkedmdb.org/resource/actor/36568> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Fred Clark" .
+
+<http://data.linkedmdb.org/resource/actor/36625> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ed Bishop" .
+
+<http://data.linkedmdb.org/resource/actor/36641> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ellen Corby" .
+
+<http://data.linkedmdb.org/resource/actor/36697> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Joan Leslie" .
+
+<http://data.linkedmdb.org/resource/actor/36818> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Frank Vincent" .
+
+<http://data.linkedmdb.org/resource/actor/36830> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Louis Wolheim" .
+
+<http://data.linkedmdb.org/resource/actor/36974> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bob Gunton" .
+
+<http://data.linkedmdb.org/resource/actor/36995> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Shelley Hack" .
+
+<http://data.linkedmdb.org/resource/actor/37003> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jude Ciccolella" .
+
+<http://data.linkedmdb.org/resource/actor/37034> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dorian Harewood" .
+
+<http://data.linkedmdb.org/resource/actor/37038> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Colleen Camp" .
+
+<http://data.linkedmdb.org/resource/actor/37111> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Kathleen Quinlan" .
+
+<http://data.linkedmdb.org/resource/actor/37165> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Maria de Medeiros" .
+
+<http://data.linkedmdb.org/resource/actor/37179> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "William Sylvester" .
+
+<http://data.linkedmdb.org/resource/actor/37181> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "George Tobias" .
+
+<http://data.linkedmdb.org/resource/actor/37215> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mark Moses" .
+
+<http://data.linkedmdb.org/resource/actor/37218> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Fernando Rey" .
+
+<http://data.linkedmdb.org/resource/actor/37252> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Clara Blandick" .
+
+<http://data.linkedmdb.org/resource/actor/37311> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tim Holt" .
+
+<http://data.linkedmdb.org/resource/actor/37390> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "William Sadler" .
+
+<http://data.linkedmdb.org/resource/actor/37398> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lawrence Makoare" .
+
+<http://data.linkedmdb.org/resource/actor/37404> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Zia Mohyeddin" .
+
+<http://data.linkedmdb.org/resource/actor/37448> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Edgar Buchanan" .
+
+<http://data.linkedmdb.org/resource/actor/37467> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "May McAvoy" .
+
+<http://data.linkedmdb.org/resource/actor/37471> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Richard Beymer" .
+
+<http://data.linkedmdb.org/resource/actor/37477> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Gerald Flood" .
+
+<http://data.linkedmdb.org/resource/actor/37499> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Gil Bellows" .
+
+<http://data.linkedmdb.org/resource/actor/37575> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Brenda Vaccaro" .
+
+<http://data.linkedmdb.org/resource/actor/37576> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Richard Edson" .
+
+<http://data.linkedmdb.org/resource/actor/37644> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Melinda Dillon" .
+
+<http://data.linkedmdb.org/resource/actor/37669> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Cammie King" .
+
+<http://data.linkedmdb.org/resource/actor/37680> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Danny Nucci" .
+
+<http://data.linkedmdb.org/resource/actor/37734> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Nicholas Colasanto" .
+
+<http://data.linkedmdb.org/resource/actor/37743> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Shakti Kapoor" .
+
+<http://data.linkedmdb.org/resource/actor/37770> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Raakhee Gulzar" .
+
+<http://data.linkedmdb.org/resource/actor/37799> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lenny Montana" .
+
+<http://data.linkedmdb.org/resource/actor/37822> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jack MacGowran" .
+
+<http://data.linkedmdb.org/resource/actor/37871> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Adriana Caselotti" .
+
+<http://data.linkedmdb.org/resource/actor/37914> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Everett Sloane" .
+
+<http://data.linkedmdb.org/resource/actor/37966> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Aubrey Morris" .
+
+<http://data.linkedmdb.org/resource/actor/37971> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Shirley Stoler" .
+
+<http://data.linkedmdb.org/resource/actor/37983> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Suzy Amis" .
+
+<http://data.linkedmdb.org/resource/actor/37987> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Diane Baker" .
+
+<http://data.linkedmdb.org/resource/actor/38034> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Carey Loftin" .
+
+<http://data.linkedmdb.org/resource/actor/38064> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Saul Rubinek" .
+
+<http://data.linkedmdb.org/resource/actor/38356> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Theresa Saldana" .
+
+<http://data.linkedmdb.org/resource/actor/38396> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jonathan Hyde" .
+
+<http://data.linkedmdb.org/resource/actor/38501> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Joe Estevez" .
+
+<http://data.linkedmdb.org/resource/actor/38544> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mary Badham" .
+
+<http://data.linkedmdb.org/resource/actor/38580> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sidney Lassick" .
+
+<http://data.linkedmdb.org/resource/actor/38590> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tom Tyler" .
+
+<http://data.linkedmdb.org/resource/actor/38656> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Simonetta Stefanelli" .
+
+<http://data.linkedmdb.org/resource/actor/38666> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Cynthia Wood" .
+
+<http://data.linkedmdb.org/resource/actor/38698> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sonny Bupp" .
+
+<http://data.linkedmdb.org/resource/actor/38699> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Buddy Swan" .
+
+<http://data.linkedmdb.org/resource/actor/38700> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Alfonso Bedoya" .
+
+<http://data.linkedmdb.org/resource/actor/38729> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sam Elliott" .
+
+<http://data.linkedmdb.org/resource/actor/38767> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bruce Bennett" .
+
+<http://data.linkedmdb.org/resource/actor/38825> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Anthony Heald" .
+
+<http://data.linkedmdb.org/resource/actor/38876> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Beatrice Straight" .
+
+<http://data.linkedmdb.org/resource/actor/38879> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Candy Clark" .
+
+<http://data.linkedmdb.org/resource/actor/39206> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Valeria Golino" .
+
+<http://data.linkedmdb.org/resource/actor/39318> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Rosemary DeCamp" .
+
+<http://data.linkedmdb.org/resource/actor/39354> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Murray Hamilton" .
+
+<http://data.linkedmdb.org/resource/actor/39529> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Phillip Alford" .
+
+<http://data.linkedmdb.org/resource/actor/396> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Hanna R. Hall" .
+
+<http://data.linkedmdb.org/resource/actor/39619> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "George Coulouris" .
+
+<http://data.linkedmdb.org/resource/actor/39639> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Donnelly Rhodes" .
+
+<http://data.linkedmdb.org/resource/actor/39671> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jeanne Cagney" .
+
+<http://data.linkedmdb.org/resource/actor/39676> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Robert DoQui" .
+
+<http://data.linkedmdb.org/resource/actor/39700> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lorraine Gary" .
+
+<http://data.linkedmdb.org/resource/actor/39742> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Nick Nicholson" .
+
+<http://data.linkedmdb.org/resource/actor/39743> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Richard Whorf" .
+
+<http://data.linkedmdb.org/resource/actor/39788> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Rosemary Murphy" .
+
+<http://data.linkedmdb.org/resource/actor/39842> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Frank Albertson" .
+
+<http://data.linkedmdb.org/resource/actor/39864> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John McIntire" .
+
+<http://data.linkedmdb.org/resource/actor/39876> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Cole Hauser" .
+
+<http://data.linkedmdb.org/resource/actor/399> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lee Patrick" .
+
+<http://data.linkedmdb.org/resource/actor/39981> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sylvia Miles" .
+
+<http://data.linkedmdb.org/resource/actor/40070> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Maury Chaykin" .
+
+<http://data.linkedmdb.org/resource/actor/40193> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Cathy Moriarty" .
+
+<http://data.linkedmdb.org/resource/actor/40225> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mario Brega" .
+
+<http://data.linkedmdb.org/resource/actor/40379> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jennifer Salt" .
+
+<http://data.linkedmdb.org/resource/actor/40467> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Caroline Goodall" .
+
+<http://data.linkedmdb.org/resource/actor/40534> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Al Lettieri" .
+
+<http://data.linkedmdb.org/resource/actor/40544> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mae Clarke" .
+
+<http://data.linkedmdb.org/resource/actor/40554> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Alida Valli" .
+
+<http://data.linkedmdb.org/resource/actor/40666> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Carl Gottlieb" .
+
+<http://data.linkedmdb.org/resource/actor/40739> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Frank Whaley" .
+
+<http://data.linkedmdb.org/resource/actor/40885> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ed Binns" .
+
+<http://data.linkedmdb.org/resource/actor/40908> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Karl Michael Vogler" .
+
+<http://data.linkedmdb.org/resource/actor/40959> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tom Powers" .
+
+<http://data.linkedmdb.org/resource/actor/40970> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Qualen" .
+
+<http://data.linkedmdb.org/resource/actor/40989> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ricardo Cortez" .
+
+<http://data.linkedmdb.org/resource/actor/41022> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Nina Foch" .
+
+<http://data.linkedmdb.org/resource/actor/41058> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Barbara Bel Geddes" .
+
+<http://data.linkedmdb.org/resource/actor/41152> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Wes Studi" .
+
+<http://data.linkedmdb.org/resource/actor/41269> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Betty Bronson" .
+
+<http://data.linkedmdb.org/resource/actor/41305> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Gulshan Grover" .
+
+<http://data.linkedmdb.org/resource/actor/41312> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sam Bottoms" .
+
+<http://data.linkedmdb.org/resource/actor/41419> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ronee Blakley" .
+
+<http://data.linkedmdb.org/resource/actor/41420> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jeff Corey" .
+
+<http://data.linkedmdb.org/resource/actor/41457> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sven-Ole Thorsen" .
+
+<http://data.linkedmdb.org/resource/actor/41598> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Robert MacNaughton" .
+
+<http://data.linkedmdb.org/resource/actor/41698> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ronald Lacey" .
+
+<http://data.linkedmdb.org/resource/actor/41794> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Carroll Lynch" .
+
+<http://data.linkedmdb.org/resource/actor/41855> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Nick Dennis" .
+
+<http://data.linkedmdb.org/resource/actor/41927> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dabbs Greer" .
+
+<http://data.linkedmdb.org/resource/actor/41966> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mike Vogel" .
+
+<http://data.linkedmdb.org/resource/actor/41992> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Charmian Carr" .
+
+<http://data.linkedmdb.org/resource/actor/42005> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jeffrey DeMunn" .
+
+<http://data.linkedmdb.org/resource/actor/42115> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Helmut Dantine" .
+
+<http://data.linkedmdb.org/resource/actor/42298> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tracy Reed" .
+
+<http://data.linkedmdb.org/resource/actor/42356> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Aruna Irani" .
+
+<http://data.linkedmdb.org/resource/actor/42563> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Warren Clarke" .
+
+<http://data.linkedmdb.org/resource/actor/42639> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Joe Spinell" .
+
+<http://data.linkedmdb.org/resource/actor/42697> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Richard Haydn" .
+
+<http://data.linkedmdb.org/resource/actor/42796> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Alex Rocco" .
+
+<http://data.linkedmdb.org/resource/actor/428> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Richard S. Castellano" .
+
+<http://data.linkedmdb.org/resource/actor/42857> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jeffrey Kramer" .
+
+<http://data.linkedmdb.org/resource/actor/42880> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Edward Van Sloan" .
+
+<http://data.linkedmdb.org/resource/actor/42962> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ewan Stewart" .
+
+<http://data.linkedmdb.org/resource/actor/42969> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Duane Whitaker" .
+
+<http://data.linkedmdb.org/resource/actor/43> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Robert Shaw" .
+
+<http://data.linkedmdb.org/resource/actor/43078> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Martino" .
+
+<http://data.linkedmdb.org/resource/actor/43098> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Frankie Faison" .
+
+<http://data.linkedmdb.org/resource/actor/432> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Michael Bates" .
+
+<http://data.linkedmdb.org/resource/actor/43523> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "David Proval" .
+
+<http://data.linkedmdb.org/resource/actor/43527> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Doug Hutchison" .
+
+<http://data.linkedmdb.org/resource/actor/43604> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Virginia Cherrill" .
+
+<http://data.linkedmdb.org/resource/actor/43632> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Frank Sivero" .
+
+<http://data.linkedmdb.org/resource/actor/43637> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Catherine Scorsese" .
+
+<http://data.linkedmdb.org/resource/actor/43654> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Morgana King" .
+
+<http://data.linkedmdb.org/resource/actor/43709> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Vivian Kubrick" .
+
+<http://data.linkedmdb.org/resource/actor/43771> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Simon Oakland" .
+
+<http://data.linkedmdb.org/resource/actor/44027> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bo Hopkins" .
+
+<http://data.linkedmdb.org/resource/actor/44091> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Heather Menzies" .
+
+<http://data.linkedmdb.org/resource/actor/44138> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Daniel Truhitte" .
+
+<http://data.linkedmdb.org/resource/actor/44184> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John McGiver" .
+
+<http://data.linkedmdb.org/resource/actor/44188> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mona Washbourne" .
+
+<http://data.linkedmdb.org/resource/actor/44310> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Harold Goodwin" .
+
+<http://data.linkedmdb.org/resource/actor/44322> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ralf Moeller" .
+
+<http://data.linkedmdb.org/resource/actor/44345> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Margaret Tyzack" .
+
+<http://data.linkedmdb.org/resource/actor/44447> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Gianni Russo" .
+
+<http://data.linkedmdb.org/resource/actor/44474> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "David Arkin" .
+
+<http://data.linkedmdb.org/resource/actor/44642> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dorothy Comingore" .
+
+<http://data.linkedmdb.org/resource/actor/44650> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Guy Kibbee" .
+
+<http://data.linkedmdb.org/resource/actor/44676> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "William O'Malley" .
+
+<http://data.linkedmdb.org/resource/actor/44759> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Elizabeth Berridge" .
+
+<http://data.linkedmdb.org/resource/actor/448> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Anderson" .
+
+<http://data.linkedmdb.org/resource/actor/44803> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Terry" .
+
+<http://data.linkedmdb.org/resource/actor/45092> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Kathleen Key" .
+
+<http://data.linkedmdb.org/resource/actor/45263> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "James Cosmo" .
+
+<http://data.linkedmdb.org/resource/actor/45311> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Kitty Winn" .
+
+<http://data.linkedmdb.org/resource/actor/45568> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Eugene Pallette" .
+
+<http://data.linkedmdb.org/resource/actor/45573> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Cary Guffey" .
+
+<http://data.linkedmdb.org/resource/actor/45663> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Shirley Ross" .
+
+<http://data.linkedmdb.org/resource/actor/45875> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Francesco Quinn" .
+
+<http://data.linkedmdb.org/resource/actor/45883> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Kalpana Kartik" .
+
+<http://data.linkedmdb.org/resource/actor/46136> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lucinda Jenney" .
+
+<http://data.linkedmdb.org/resource/actor/46398> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Joe Grifasi" .
+
+<http://data.linkedmdb.org/resource/actor/46686> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Pat Walshe" .
+
+<http://data.linkedmdb.org/resource/actor/46909> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Peter Bull" .
+
+<http://data.linkedmdb.org/resource/actor/47> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "F. Murray Abraham" .
+
+<http://data.linkedmdb.org/resource/actor/47021> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Movita Castaneda" .
+
+<http://data.linkedmdb.org/resource/actor/47100> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Barnard Hughes" .
+
+<http://data.linkedmdb.org/resource/actor/472> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Edward Arnold" .
+
+<http://data.linkedmdb.org/resource/actor/47236> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dudley Digges" .
+
+<http://data.linkedmdb.org/resource/actor/47376> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Wesley Addy" .
+
+<http://data.linkedmdb.org/resource/actor/47756> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Shrapnel" .
+
+<http://data.linkedmdb.org/resource/actor/47791> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Shirley Mills" .
+
+<http://data.linkedmdb.org/resource/actor/47997> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Wolf Kahler" .
+
+<http://data.linkedmdb.org/resource/actor/48057> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Slim Summerville" .
+
+<http://data.linkedmdb.org/resource/actor/48198> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Emile Meyer" .
+
+<http://data.linkedmdb.org/resource/actor/48227> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Duane Chase" .
+
+<http://data.linkedmdb.org/resource/actor/48228> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Debbie Turner" .
+
+<http://data.linkedmdb.org/resource/actor/48261> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Herbert Mundin" .
+
+<http://data.linkedmdb.org/resource/actor/48299> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Donald Meek" .
+
+<http://data.linkedmdb.org/resource/actor/48400> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mary Nash" .
+
+<http://data.linkedmdb.org/resource/actor/48449> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Eddie Quillan" .
+
+<http://data.linkedmdb.org/resource/actor/48574> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Peter Dobson" .
+
+<http://data.linkedmdb.org/resource/actor/48621> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Al Mulock" .
+
+<http://data.linkedmdb.org/resource/actor/48825> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jonathan Filley" .
+
+<http://data.linkedmdb.org/resource/actor/48839> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Evan A. Lottman" .
+
+<http://data.linkedmdb.org/resource/actor/48843> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jack Thibeau" .
+
+<http://data.linkedmdb.org/resource/actor/48881> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Henry Stephenson" .
+
+<http://data.linkedmdb.org/resource/actor/48974> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jordan Charney" .
+
+<http://data.linkedmdb.org/resource/actor/49021> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "William Bakewell" .
+
+<http://data.linkedmdb.org/resource/actor/49140> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Geoffrey Blake" .
+
+<http://data.linkedmdb.org/resource/actor/49216> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Rutanya Alda" .
+
+<http://data.linkedmdb.org/resource/actor/49274> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Al Martino" .
+
+<http://data.linkedmdb.org/resource/actor/49376> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Debbie Reynolds" .
+
+<http://data.linkedmdb.org/resource/actor/49415> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Dooley Wilson" .
+
+<http://data.linkedmdb.org/resource/actor/49470> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Viggo Mortensen" .
+
+<http://data.linkedmdb.org/resource/actor/49698> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jim Gaines" .
+
+<http://data.linkedmdb.org/resource/actor/49815> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "James Marcus" .
+
+<http://data.linkedmdb.org/resource/actor/49942> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Madeleine LeBeau" .
+
+<http://data.linkedmdb.org/resource/actor/5009> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Barton Heyman" .
+
+<http://data.linkedmdb.org/resource/actor/50194> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "William Alland" .
+
+<http://data.linkedmdb.org/resource/actor/50345> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Philip Van Zandt" .
+
+<http://data.linkedmdb.org/resource/actor/51> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "David Warner" .
+
+<http://data.linkedmdb.org/resource/actor/51304> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Richard Alexander" .
+
+<http://data.linkedmdb.org/resource/actor/51612> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Susan Bottomly" .
+
+<http://data.linkedmdb.org/resource/actor/51744> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Michael Strong" .
+
+<http://data.linkedmdb.org/resource/actor/51849> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Leonid Kinskey" .
+
+<http://data.linkedmdb.org/resource/actor/52343> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jack Gwillim" .
+
+<http://data.linkedmdb.org/resource/actor/52359> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Minor Watson" .
+
+<http://data.linkedmdb.org/resource/actor/52368> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Louise Platt" .
+
+<http://data.linkedmdb.org/resource/actor/527> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "William Windom" .
+
+<http://data.linkedmdb.org/resource/actor/52791> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Susan Backlinie" .
+
+<http://data.linkedmdb.org/resource/actor/5289> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Neil Giuntoli" .
+
+<http://data.linkedmdb.org/resource/actor/529> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Michael Murphy" .
+
+<http://data.linkedmdb.org/resource/actor/52945> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Frank Latimore" .
+
+<http://data.linkedmdb.org/resource/actor/53226> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Michael Spears" .
+
+<http://data.linkedmdb.org/resource/actor/53284> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Morgan Paull" .
+
+<http://data.linkedmdb.org/resource/actor/53292> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Erskine Sanford" .
+
+<http://data.linkedmdb.org/resource/actor/54127> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Georgia Backus" .
+
+<http://data.linkedmdb.org/resource/actor/54345> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Richard MÃ¼nch" .
+
+<http://data.linkedmdb.org/resource/actor/54476> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Renee Blaine" .
+
+<http://data.linkedmdb.org/resource/actor/54477> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Larry Brandenburg" .
+
+<http://data.linkedmdb.org/resource/actor/54478> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Brian Libby" .
+
+<http://data.linkedmdb.org/resource/actor/54479> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Joseph Ragno" .
+
+<http://data.linkedmdb.org/resource/actor/54538> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Otto Matieson" .
+
+<http://data.linkedmdb.org/resource/actor/54544> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "David Torrence" .
+
+<http://data.linkedmdb.org/resource/actor/54598> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Kerry Rossall" .
+
+<http://data.linkedmdb.org/resource/actor/55003> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Astrid Allwyn" .
+
+<http://data.linkedmdb.org/resource/actor/55052> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Justin Dreyfuss" .
+
+<http://data.linkedmdb.org/resource/actor/55053> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Adrienne Campbell" .
+
+<http://data.linkedmdb.org/resource/actor/55054> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "J. Patrick McNamara" .
+
+<http://data.linkedmdb.org/resource/actor/55055> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Warren J. Kemmerling" .
+
+<http://data.linkedmdb.org/resource/actor/55056> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Shawn Bishop" .
+
+<http://data.linkedmdb.org/resource/actor/55322> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Peter Hanly" .
+
+<http://data.linkedmdb.org/resource/actor/55381> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Frederick Kerr" .
+
+<http://data.linkedmdb.org/resource/actor/55436> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Walter B. Rogers" .
+
+<http://data.linkedmdb.org/resource/actor/55763> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tony Darrow" .
+
+<http://data.linkedmdb.org/resource/actor/55804> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tomas Arana" .
+
+<http://data.linkedmdb.org/resource/actor/55815> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Thomas A. Curran" .
+
+<http://data.linkedmdb.org/resource/actor/563> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "David Morse" .
+
+<http://data.linkedmdb.org/resource/actor/56339> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Wray" .
+
+<http://data.linkedmdb.org/resource/actor/57161> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Henry Strzalkowski" .
+
+<http://data.linkedmdb.org/resource/actor/57162> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Linn Phillips" .
+
+<http://data.linkedmdb.org/resource/actor/57163> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Bo Byers" .
+
+<http://data.linkedmdb.org/resource/actor/57164> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Glenn Walken" .
+
+<http://data.linkedmdb.org/resource/actor/57165> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tom Mason" .
+
+<http://data.linkedmdb.org/resource/actor/57166> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ron McQueen" .
+
+<http://data.linkedmdb.org/resource/actor/57167> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jerry Ziesmer" .
+
+<http://data.linkedmdb.org/resource/actor/57168> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "James Keane" .
+
+<http://data.linkedmdb.org/resource/actor/57169> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Linda Carpenter" .
+
+<http://data.linkedmdb.org/resource/actor/57475> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Gus Schilling" .
+
+<http://data.linkedmdb.org/resource/actor/594> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Barbara Harris" .
+
+<http://data.linkedmdb.org/resource/actor/59682> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ted Grossman" .
+
+<http://data.linkedmdb.org/resource/actor/601> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ben Wright" .
+
+<http://data.linkedmdb.org/resource/actor/60828> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Michael Tarn" .
+
+<http://data.linkedmdb.org/resource/actor/60883> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lou Marcelle" .
+
+<http://data.linkedmdb.org/resource/actor/60955> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "William Redfield" .
+
+<http://data.linkedmdb.org/resource/actor/61404> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jimmy Herman" .
+
+<http://data.linkedmdb.org/resource/actor/62081> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Brian Avery" .
+
+<http://data.linkedmdb.org/resource/actor/62095> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Scott Kolk" .
+
+<http://data.linkedmdb.org/resource/actor/62096> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "G. Pat Collins" .
+
+<http://data.linkedmdb.org/resource/actor/62097> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Arnold Lucy" .
+
+<http://data.linkedmdb.org/resource/actor/62165> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Robert Elliot" .
+
+<http://data.linkedmdb.org/resource/actor/62187> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Daniel Richter" .
+
+<http://data.linkedmdb.org/resource/actor/631> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ray Collins" .
+
+<http://data.linkedmdb.org/resource/actor/6332> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Ultra Violet" .
+
+<http://data.linkedmdb.org/resource/actor/65315> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Harry Shannon" .
+
+<http://data.linkedmdb.org/resource/actor/65588> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Carl Ekberg" .
+
+<http://data.linkedmdb.org/resource/actor/65609> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "John Barrie" .
+
+<http://data.linkedmdb.org/resource/actor/65627> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Albert Dumortier" .
+
+<http://data.linkedmdb.org/resource/actor/677> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "David O'Hara" .
+
+<http://data.linkedmdb.org/resource/actor/688> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jeremy Davies" .
+
+<http://data.linkedmdb.org/resource/actor/696> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Barbara O'Neil" .
+
+<http://data.linkedmdb.org/resource/actor/706> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Paul Stewart" .
+
+<http://data.linkedmdb.org/resource/actor/7335> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Philip Ober" .
+
+<http://data.linkedmdb.org/resource/actor/740> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Johnny Walker" .
+
+<http://data.linkedmdb.org/resource/actor/745> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Viva" .
+
+<http://data.linkedmdb.org/resource/actor/751> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Kevin Dillon" .
+
+<http://data.linkedmdb.org/resource/actor/7694> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mort Mills" .
+
+<http://data.linkedmdb.org/resource/actor/771> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Henry Jones" .
+
+<http://data.linkedmdb.org/resource/actor/7884> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Portia Nelson" .
+
+<http://data.linkedmdb.org/resource/actor/799> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tony Roberts" .
+
+<http://data.linkedmdb.org/resource/actor/8238> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Sydney Lassick" .
+
+<http://data.linkedmdb.org/resource/actor/84> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Leo G. Carroll" .
+
+<http://data.linkedmdb.org/resource/actor/840> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "K. C. Martel" .
+
+<http://data.linkedmdb.org/resource/actor/872> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Walter Long" .
+
+<http://data.linkedmdb.org/resource/actor/881> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Richard Bright" .
+
+<http://data.linkedmdb.org/resource/actor/893> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "George Harris" .
+
+<http://data.linkedmdb.org/resource/actor/895> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Mike Starr" .
+
+<http://data.linkedmdb.org/resource/actor/9063> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "David Schofield" .
+
+<http://data.linkedmdb.org/resource/actor/9065> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Darla" .
+
+<http://data.linkedmdb.org/resource/actor/932> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Patrick Magee" .
+
+<http://data.linkedmdb.org/resource/actor/9332> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Reena Roy" .
+
+<http://data.linkedmdb.org/resource/actor/9444> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Geoffrey Horne" .
+
+<http://data.linkedmdb.org/resource/actor/9502> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Henry Oscar" .
+
+<http://data.linkedmdb.org/resource/actor/9525> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Tony Lo Bianco" .
+
+<http://data.linkedmdb.org/resource/actor/953> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "S.Z. Sakall" .
+
+<http://data.linkedmdb.org/resource/actor/9546> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jason Barry" .
+
+<http://data.linkedmdb.org/resource/actor/9547> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jonathan Phillips" .
+
+<http://data.linkedmdb.org/resource/actor/9604> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Eiji Okuda" .
+
+<http://data.linkedmdb.org/resource/actor/962> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Jason Miller" .
+
+<http://data.linkedmdb.org/resource/actor/9624> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Norma Varden" .
+
+<http://data.linkedmdb.org/resource/actor/9659> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Michael D. Roberts" .
+
+<http://data.linkedmdb.org/resource/actor/9676> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Siegfried Rauch" .
+
+<http://data.linkedmdb.org/resource/actor/9769> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Michael Conner Humphreys" .
+
+<http://data.linkedmdb.org/resource/actor/9814> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Louis Guss" .
+
+<http://data.linkedmdb.org/resource/actor/9946> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Eddie Foy, Jr." .
+
+<http://data.linkedmdb.org/resource/actor/9959> a <http://data.linkedmdb.org/resource/movie/actor>,
+        <http://xmlns.com/foaf/0.1/Person> ;
+    rdfs:label "Lurene Tuttle" .
+

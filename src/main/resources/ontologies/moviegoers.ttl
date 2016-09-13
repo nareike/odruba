@@ -1,0 +1,83 @@
+@base <http://example.org/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix vis: <http://vis.example.org/> .
+@prefix ex: <http://example.org/> .
+
+@prefix film: <http://data.linkedmdb.org/resource/film/>
+@prefix genre: <http://data.linkedmdb.org/resource/film_genre/>
+@prefix movie: <http://data.linkedmdb.org/resource/movie/>
+
+ex:watches rdfs:label "watches" .
+
+### --- our movie goers
+ex:Alice
+    ex:likes genre:4 ;
+    a foaf:Person ;
+    a ex:movieGoer ;
+    rdfs:label "Alice" .
+
+ex:movieGoer rdfs:label "Moviegoer" .
+
+ex:Fiona foaf:knows ex:Isa .
+
+ex:Betty
+    ex:watches film:319 ;
+    ex:likes genre:12 ;
+    a ex:movieGoer ;
+    a foaf:Person ;
+    rdfs:label "Betty" .
+
+ex:Charlie
+    ex:dislikes genre:4 ;
+    a foaf:Person ;
+    a ex:movieGoer ;
+    rdfs:label "Charlie" .
+
+ex:David
+    a ex:movieGoer ;
+    ex:watches film:234 ;
+    rdfs:label "David" .
+
+ex:Emily
+    a ex:movieGoer ;
+    ex:watches film:2685 ;
+    rdfs:label "Emily" .
+
+ex:Fiona
+    a ex:movieGoer ;
+    ex:watches film:276 ;
+    rdfs:label "Fiona" .
+
+ex:Greg
+    a ex:movieGoer ;
+    foaf:knows ex:Fiona ;
+    ex:watches film:276 ;
+    rdfs:label "Greg" .
+
+ex:Hank
+    a ex:movieGoer ;
+    ex:watches film:9038, film:2685 ;
+    rdfs:label "Hank" .
+
+ex:Isa
+    a ex:movieGoer ;
+    ex:watches film:77 ;
+    rdfs:label "Isa" .
+
+ex:Joanna
+    a ex:movieGoer ;
+    ex:watches film:6794 ;
+    rdfs:label "Joanna" .
+
+ex:Karl
+    a ex:movieGoer ;
+    ex:watches film:6580 ;
+    rdfs:label "Karl" .
+
+ex:Ludwig
+    a ex:movieGoer ;
+    ex:watches film:5401 ;
+    rdfs:label "Ludwig" .

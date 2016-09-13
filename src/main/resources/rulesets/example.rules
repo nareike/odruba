@@ -1,0 +1,17 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix vis: <http://vis.example.org/> .
+@prefix ex: <http://example.org/> .
+
+@prefix genre: <http://data.linkedmdb.org/resource/film_genre/>
+@prefix movie: <http://data.linkedmdb.org/resource/movie/>
+
+#[like-genre-like-film:
+#    (?f rdf:type movie:film)
+#    (?f movie:genre ?g)
+#    (?s ex:likes ?g)
+#    ->
+#    (?s ex:likes ?f)
+#]

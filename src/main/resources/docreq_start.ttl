@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix cvt: <http://vocab.cv-tec.de/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://example.org/> .
+@prefix cvt: <http://vocab.cv-tec.de/> .
+
+# <http://vocab.cv-tec.de/Regulation/6> rdfs:label "Start" .
+
+<http://vocab.cv-tec.de/LFH>
+    cvt:ProductType_CostTypes <http://vocab.cv-tec.de/ReferenceableObject/1> ;
+    # cvt:ProductType_CostTypes <http://vocab.cv-tec.de/ReferenceableObject/3> ;
+    rdfs:label "Lufthakenfabrik" ;
+    rdf:type cvt:ProductType .

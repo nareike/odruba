@@ -1,0 +1,56 @@
+@base <http://example.org/config/> .
+@prefix vis: <http://vis.example.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://example.org/> .
+@prefix cvt: <http://vocab.cv-tec.de/> .
+
+@prefix local: <file:src/main/resources/> .
+@prefix config: <file:src/main/resources/config/> .
+
+@prefix movie: <http://data.linkedmdb.org/resource/movie/>
+
+<ExampleConfig>
+
+    ### Include literals into the graph?
+    vis:showLiterals false ;
+
+    ### Show labels inside/next to the graphical node symbol?
+    vis:showLabels true ;
+
+    ### Are resources that are identified as classes shown?
+    vis:showClasses false ;
+
+    ### Which property is used to generate labels? (rdfs:label)
+    vis:labelProperty rdfs:label ;
+    vis:maxLabelLength 14 ;
+
+    ### Which properties are used to generate the title/tooltip?
+    vis:titleProperties (
+            rdfs:label
+            rdf:type
+            rdfs:comment
+    ) ;
+
+    vis:allowExpansion false ;
+    vis:limitExpansionToProperties true ;
+    vis:expandOutgoingProperties (
+        movie:actor
+        ex:likes
+        movie:genre
+        movie:director
+    ) ;
+
+    vis:expandIncomingProperties (
+        movie:genre
+        movie:director
+        ex:likes
+        ex:watches
+    ) ;
+
+    vis:defaultShape "ellipse" ;
+
+    a vis:Config .
+
+

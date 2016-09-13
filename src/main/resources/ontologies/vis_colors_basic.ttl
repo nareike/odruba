@@ -1,0 +1,36 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vis: <http://vis.example.org/> .
+
+vis:Orange a vis:ColorCombination ;
+    vis:background "#fcb85f" ;
+    vis:border "chocolate" .
+
+vis:Yellow a vis:ColorCombination ;
+    vis:background "#faea95" ;
+    vis:border "#fcb85f" .
+
+vis:Red a vis:ColorCombination ;
+    vis:background "#eca8af" ;
+    vis:border "#B35B64" .
+
+vis:Green a vis:ColorCombination ;
+    vis:background "#B6D178" ;
+    vis:border "#96AB1F" .
+
+vis:Purple a vis:ColorCombination ;
+    vis:background "#DBABDE" ;
+    vis:border "#B064B5" .
+
+vis:Blue a vis:ColorCombination ;
+    vis:background '#97C2FC' ;
+    vis:border '#66A0EF' .
+
+vis:BlackWhite
+    vis:background "white" ;
+    vis:border "black" .
+
+vis:Dark a vis:ColorCombination ;
+    vis:background "#999999" ;
+    vis:border "black" .
+

@@ -1,0 +1,25 @@
+@base <http://example.org/config/> .
+
+@prefix vis: <http://vis.example.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+@prefix local: <file:src/main/resources/ontologies/> .
+
+@prefix genre: <http://data.linkedmdb.org/resource/film_genre/> .
+@prefix movie: <http://data.linkedmdb.org/resource/movie/> .
+@prefix film: <http://data.linkedmdb.org/resource/film/> .
+
+
+<> owl:imports local:moviegoers.ttl .
+<> owl:imports local:vis.ttl .
+<> owl:imports local:vis_colors_basic.ttl .
+
+#<> owl:imports local:foaf.ttl .
+#<> owl:imports <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<> owl:imports local:sel_films.ttl .
+<> owl:imports local:sel_directors.ttl .
+<> owl:imports local:sel_actors.ttl .
+<> owl:imports local:sel_genres.ttl .

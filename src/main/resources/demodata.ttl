@@ -1,0 +1,50 @@
+@base <http://example.org/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix vis: <http://vis.example.org/> .
+@prefix ex: <http://example.org/> .
+
+@prefix genre: <http://data.linkedmdb.org/resource/film_genre/> .
+@prefix movie: <http://data.linkedmdb.org/resource/movie/> .
+@prefix film: <http://data.linkedmdb.org/resource/film/> .
+@prefix actor: <http://data.linkedmdb.org/resource/actor/> .
+
+### --- our movie goers
+ex:Alice
+    ex:watches film:136 ;
+#    ex:likes film:136 ;
+#    a foaf:Person ;
+    a ex:movieGoer ;
+#    ex:hasReady ex:Tempo_124 ;
+    rdfs:label "Alice" .
+
+#ex:Tempo_124 a ex:FacialTissue .
+
+ex:Betty
+#    a foaf:Person ;
+    ex:watches film:319 ;
+    ex:likes film:319 ;
+
+    # <hasReady> <Popcorn> ;
+    # a foaf:Person ;
+    #<likes> <http://data.linkedmdb.org/resource/film_genre/4> ;
+    #<likes> <http://data.linkedmdb.org/resource/film_genre/28> ;
+    #<likes> <http://data.linkedmdb.org/resource/film/136> ;
+    #<likes> <http://data.linkedmdb.org/resource/actor/30004> ;
+    #<likes> <http://data.linkedmdb.org/resource/film/6646> ;
+
+    a ex:movieGoer ;
+    rdfs:label "Betty" .
+
+<Charlie>
+    a ex:movieGoer ;
+#    a foaf:Person ;
+   rdfs:label "Charlie" .
+
+
+#<WireCutters> a <AnimatedShort> .
+#<Room8> a <ShortFilm> .
+
+
